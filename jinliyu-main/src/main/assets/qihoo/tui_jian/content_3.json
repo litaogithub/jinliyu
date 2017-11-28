@@ -1,0 +1,2572 @@
+﻿{
+    "data": {
+        "data": {
+            "blocks": [
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t0128f1a7e0cd2a3938.jpg",
+                                    "dynamicImg": "http://p9.qhimg.com/t0139dfe389ec8fb991.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.6分",
+                                        "type": "1"
+                                    },
+                                    "title": "古惑仔3：只手遮天",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gKXkaUL5SHX5Tx",
+                                    "word": "小结巴死了浩南怎么办"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t01bf95477e7b96a550.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.9分",
+                                        "type": "1"
+                                    },
+                                    "title": "救世",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gaflaRH2QXf2UB",
+                                    "word": "北欧牛仔以暴制暴以血还血"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t015a3796574c5703ef.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.4分",
+                                        "type": "1"
+                                    },
+                                    "title": "人偶寻爱记",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gqLpYhH3SHP4UR",
+                                    "word": "屌丝男与充气女友寻爱记"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t011724453d2d9ee185.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.0分",
+                                        "type": "1"
+                                    },
+                                    "title": "皮囊之下",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=fablYkX7R0L8UR",
+                                    "word": "不要和精神病做邻居"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01617f83aa3e7d03d9.jpg",
+                                    "dynamicImg": "http://p8.qhimg.com/t01fecbfb5c61cabc68.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "9.1分",
+                                        "type": "1"
+                                    },
+                                    "title": "摔跤吧！爸爸",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gKriYhH4QXH3Tx",
+                                    "word": "印度刘德华携女儿开挂逆袭"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t01d7b8790928c5a039.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.1分",
+                                        "type": "1"
+                                    },
+                                    "title": "微微一笑很倾城",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=f6bjZhH3Qnf0SB",
+                                    "word": "AB井柏然游戏情缘虐狗CP"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "正在热映",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "更多热片",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=22&title=电影&filter=11",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=22&title=电影&filter=11",
+                    "tipsWord": "更多热片"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t0175f50bcff4c3cade.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "4.6分",
+                                        "type": "1"
+                                    },
+                                    "title": "麻烦家族",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hKPrZhH3SHT7Sh",
+                                    "word": "黄磊海清狂解家族乱麻"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t0155b7c97a9a7f64a2.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.8分",
+                                        "type": "1"
+                                    },
+                                    "title": "逆时营救",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gKfkYRH4QXX2Sh",
+                                    "word": "霍建华变斧头狂魔活捉杨幂"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01282b6a9ece06a7fe.jpg",
+                                    "dynamicImg": "http://p6.qhimg.com/t01a2e2abb7ccdf709a.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.1分",
+                                        "type": "1"
+                                    },
+                                    "title": "功夫瑜伽",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hqPnaRH3S0H2Sx",
+                                    "word": "成龙大哥李治廷尬舞宝莱坞"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t01e5f03ef2daaff1ad.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.3分",
+                                        "type": "1"
+                                    },
+                                    "title": "嫌疑人X的献身",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gafqZRH3RXH2Tx",
+                                    "word": "家暴男血案引发深情告白"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t018e3d69c968e26af7.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.6分",
+                                        "type": "1"
+                                    },
+                                    "title": "西游伏妖篇",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gaPmYhH3Rnr3TB",
+                                    "word": "周星驰暗黑西游特效炸天"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t01faecefebc652c469.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.1分",
+                                        "type": "1"
+                                    },
+                                    "title": "铁道飞虎",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gKLjZRH3QHr4TR",
+                                    "word": "成龙带你干票大的！"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "院线精选",
+                    "blockType": "V",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "九月观影指南",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/webview?url=http://www.360kan.com/special/guanying-2017-9-h5.html",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=22&title=电影&filter=11",
+                    "tipsWord": "新片抢鲜看"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t01dd61c0200eef52c2.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "李治廷野外脱裤救女神",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=李治廷野外脱裤救女神&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FlEQ5XXXp35j2&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252FlEQ5XXXp35j2%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp8.qhimg.com%2Ft01dd61c0200eef52c2.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "范冰冰表示可以理解"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01ee70cee856752f68.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "水浒中堪比潘金莲的女人",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=水浒中堪比潘金莲的女人&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FD9dNkY4a45ej&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252FD9dNkY4a45ej%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp3.qhimg.com%2Ft01ee70cee856752f68.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "和尚也忍不了了"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t01a87a85a2956762bd.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "金刚狼血腥自虐片段",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=金刚狼血腥自虐片段&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2F8wXNnPpxB50Z&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252F8wXNnPpxB50Z%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp5.qhimg.com%2Ft01a87a85a2956762bd.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "徒手抓出心脏上的虫子"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01388a49c4ce3a845d.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "范伟用药后太生猛",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=范伟用药后太生猛&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FjAq1qJbnlMWP&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252FjAq1qJbnlMWP%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp6.qhimg.com%2Ft01388a49c4ce3a845d.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "林志玲声音太大吵到隔壁"
+                                }
+                            ]
+                        },
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01887296b23f3d81d5.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "王宝强洞房片段飙演技",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=王宝强洞房片段飙演技&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FjVZ5DDqK453L&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252FjVZ5DDqK453L%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp6.qhimg.com%2Ft01887296b23f3d81d5.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "他凭这部电影获得影帝"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01dd2f1554518f4bba.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "《姐姐我爱你》片段",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=《姐姐我爱你》片段&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FaoJnM74BJ7Bz&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252FaoJnM74BJ7Bz%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp2.qhimg.com%2Ft01dd2f1554518f4bba.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "姐姐你啃得也太狠了"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t01ff0d16fdfe85a3d9.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "众女神性感出浴瞬间",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=众女神性感出浴瞬间&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FzKRw1wQALg6J&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252FzKRw1wQALg6J%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp0.qhimg.com%2Ft01ff0d16fdfe85a3d9.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "谁惊艳了你的时光？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t0169253f8f06d73051.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "<一夜惊喜>真有惊喜",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=<一夜惊喜>真有惊喜&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FlEQ5Xn0ElNj2&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252FlEQ5Xn0ElNj2%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp0.qhimg.com%2Ft0169253f8f06d73051.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "范爷你这让李晨如何是好"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "只要高潮！",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "张猫歪说电影",
+                    "showMoreFlag": 1,
+                    "showMoreTips": "换一换",
+                    "tagUri": "qhvideo://vapp.360.cn/detailpage?cat=3&videoid=ZcMna3Nx72AADD",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=22&title=电影&filter=11",
+                    "tipsWord": "最新影片"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t013a908d839508bb71.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.0分",
+                                        "type": "1"
+                                    },
+                                    "title": "决战刹马镇",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gqfpYUkncXb2TR",
+                                    "word": "本土原创和混搭雷人"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t01d6b44ec67ee6ac07.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.4分",
+                                        "type": "1"
+                                    },
+                                    "title": "夏洛特烦恼",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=fqroZhH1S0H0Th",
+                                    "word": "开心麻花就要逗你笑！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t01d97c39a9c6ff4acc.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.9分",
+                                        "type": "1"
+                                    },
+                                    "title": "好命先生",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=fqPqYxH1Q0j3Tx",
+                                    "word": "霸气陈小春秒变妻管严"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t01229dd93debdc0d2c.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.0分",
+                                        "type": "1"
+                                    },
+                                    "title": "煎饼侠",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hqXjZhH1R0H7TR",
+                                    "word": "大鹏跌宕追梦笑泪齐飞"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t013a8d71f8042b3a0f.jpg",
+                                    "dynamicImg": "http://p2.qhimg.com/t0192c17908068ec313.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.1分",
+                                        "type": "1"
+                                    },
+                                    "title": "功夫瑜伽",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hqPnaRH3S0H2Sx",
+                                    "word": "成龙大哥李治廷尬舞宝莱坞"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t01e25e93436dd33d8b.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.6分",
+                                        "type": "1"
+                                    },
+                                    "title": "大野狼和小绵羊的爱情",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=f6TjYkT7QXn7UR",
+                                    "word": "我有告白必杀技"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "搞笑喜剧",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "父子雄兵",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/webview?url=https%3A%2F%2Factivity.m.duiba.com.cn%2Fquizz%2Findex%3Fid%3D2344909%26appKey%3D2JEzMQWdU6H7X2wuhMBwVxCTK9pG%26openBs%3Dopenbs",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=23&title=电影&filter=11",
+                    "tipsWord": "更多笑点"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t01d713ddbfc4331160.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.2分",
+                                        "type": "1"
+                                    },
+                                    "title": "超级保镖",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gKPiZhH2R0r7Sh",
+                                    "word": "兽性勃发暴力百人混战"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t0196b9e9c85a0cf90a.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.4分",
+                                        "type": "1"
+                                    },
+                                    "title": "尖峰时刻3",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gabkYUT7RnL8Sh",
+                                    "word": "成龙大哥搭档贫嘴警探"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t019f2f9d71a4325415.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.2分",
+                                        "type": "1"
+                                    },
+                                    "title": "田禹治",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hqTnaEMrQHfASh",
+                                    "word": "风流小道士穿越现代驱魔伏妖"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t013f668692a01b0812.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.9分",
+                                        "type": "1"
+                                    },
+                                    "title": "狗咬狗",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=haflaBH1SHT2Th",
+                                    "word": "陈冠希演技爆发变冷血杀手"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t014eba1c2059a3d07b.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "8.0分",
+                                        "type": "1"
+                                    },
+                                    "title": "猩球崛起",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=faLkZUT6SHr7SB",
+                                    "word": "凯撒带领猿族逃离人类"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t010c479a94ddc2b84b.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.8分",
+                                        "type": "1"
+                                    },
+                                    "title": "功之怒",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=faXmaRH1Rnj5Sx",
+                                    "word": "电话杀人脑洞大开！"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "火爆动作",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "变形金刚5",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/webview?url=https%3A%2F%2Factivity.m.duiba.com.cn%2Fquizz%2Findex%3Fid%3D2289353%26dblanding%3Dhttps%253A%252F%252Factivity.m.duiba.com.cn%252FactivityShare%252FgetActivityShareInfo%253FoperatingActivityId%253D2289353%26appKey%3D2JEzMQWdU6H7X2wuhMBwVxCTK9pG%26openBs%3Dopenbs",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=20&title=电影&filter=11",
+                    "tipsWord": "更多燃点"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01e01b12a2c883eff2.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "5分钟看《被侵犯的她》",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=5分钟看《被侵犯的她》&url=http%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav15237134%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttp%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav15237134%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp3.qhimg.com%2Ft01e01b12a2c883eff2.jpg&duration=",
+                                    "word": "女儿学校遭集体侵犯怎么办"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t01ae7ef5197186c85c.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "如何靠打嘴炮发家致富",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=如何靠打嘴炮发家致富&url=http%3A%2F%2Fv.360kan.com%2Fsv%2FdYXmOWDoSBL5SC.html&website=fanqie&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fmovie%2Ffanqie%3Furl%3Dhttp%253A%252F%252Fv.360kan.com%252Fsv%252FdYXmOWDoSBL5SC.html%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp7.qhimg.com%2Ft01ae7ef5197186c85c.jpg&duration=06:00&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "5分钟看《华尔街之狼》"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t0195a23a813cf080d5.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "4分钟看<银河护卫队2>",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=4分钟看<银河护卫队2>&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FEQ5XoWmq9Rj2&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252FEQ5XoWmq9Rj2%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp1.qhimg.com%2Ft0195a23a813cf080d5.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "逗比打怪天团强势卖萌"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t0149733d3aaf0f71d3.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "变态饲养员囚禁美女",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=变态饲养员囚禁美女&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2Fblj5QqkJm59d&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252Fblj5QqkJm59d%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp1.qhimg.com%2Ft0149733d3aaf0f71d3.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "3分钟感受惊悚电影《爱宠》"
+                                }
+                            ]
+                        },
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t015c259afd81143cbd.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "整容天后身体全面崩坏",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=整容天后身体全面崩坏&url=http%3A%2F%2Fv.pptv.com%2Fshow%2Fm55t6lK4KGbJR68.html&website=pptv&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fpptv%3Furl%3Dhttp%253A%252F%252Fv.pptv.com%252Fshow%252Fm55t6lK4KGbJR68.html%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp8.qhimg.com%2Ft015c259afd81143cbd.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "让女经纪人帮解决生理需求"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t011e15cb80aff550ec.jpg",
+                                    "dynamicImg": "http://p9.qhimg.com/t01b9aa1589439659af.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "5分钟看《声之形》",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=5分钟看《声之形》&url=http%3A%2F%2Fmy.tv.sohu.com%2Fus%2F317568124%2F89690997.shtml&website=sohu&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fsohu%3Furl%3Dhttp%253A%252F%252Fmy.tv.sohu.com%252Fus%252F317568124%252F89690997.shtml%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp7.qhimg.com%2Ft011e15cb80aff550ec.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "霸凌者变被霸凌者的故事"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01caa49743545e5e5f.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "出乎意料的反转再反转",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=出乎意料的反转再反转&url=http%3A%2F%2Fv.360kan.com%2Fsv%2FcYnqOWDoSBH4TC.html&website=fanqie&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fmovie%2Ffanqie%3Furl%3Dhttp%253A%252F%252Fv.360kan.com%252Fsv%252FcYnqOWDoSBH4TC.html%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp3.qhimg.com%2Ft01caa49743545e5e5f.jpg&duration=21:17&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "被迫收看男友直播出轨"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t0196f736b7630e3bf1.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "<海天盛宴>贵圈太乱！",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=<海天盛宴>贵圈太乱！&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2F9dNkLXwPVRej&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252F9dNkLXwPVRej%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp2.qhimg.com%2Ft0196f736b7630e3bf1.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "拜金女与富二代的物欲纠缠"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "秒看电影馆",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "谷阿莫说电影",
+                    "showMoreFlag": 1,
+                    "showMoreTips": "换一换",
+                    "tagUri": "qhvideo://vapp.360.cn/detailpage?cat=3&videoid=YcMkb3Nu82cCDj",
+                    "tipsUri": "qhvideo://vapp.360.cn/detailpage?cat=3&videoid=YcMkb3Nu82cCDj",
+                    "tipsWord": "更多吐槽"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t01d1b844e2d4e0ae5a.jpg",
+                                    "dynamicImg": "http://p8.qhimg.com/t0190993b9abf80097d.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "《天才枪手》超燃混剪",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=《天才枪手》超燃混剪&url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F318419%2F4128372.html&website=imgotv&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fimgotv%3Furl%3Dhttp%253A%252F%252Fwww.mgtv.com%252Fb%252F318419%252F4128372.html%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp4.qhimg.com%2Ft01d1b844e2d4e0ae5a.jpg&duration=",
+                                    "word": "学霸联手学渣抄燃抄刺激"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t016341360a5cc5d46b.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "《追龙》特效化妆3小时",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=《追龙》特效化妆3小时&url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F317898%2F4122395.html&website=imgotv&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fimgotv%3Furl%3Dhttp%253A%252F%252Fwww.mgtv.com%252Fb%252F317898%252F4122395.html%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp3.qhimg.com%2Ft016341360a5cc5d46b.jpg&duration=",
+                                    "word": "甄子丹角色被评“太猛了！”"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t018ef65d536ccad3a2.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "《常在你左右》鬼事预告",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=《常在你左右》鬼事预告&url=http%3A%2F%2Fwww.fun.tv%2Fvplay%2Fv-14283359%2F&website=fengxing&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Ffengxing%3Furl%3Dhttp%253A%252F%252Fwww.fun.tv%252Fvplay%252Fv-14283359%252F%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp9.qhimg.com%2Ft018ef65d536ccad3a2.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "张智霖干起木工活"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t0172c7fd209effd6f9.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "《东方快车谋杀案》",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=《东方快车谋杀案》&url=http%3A%2F%2Fwww.fun.tv%2Fvplay%2Fv-14023915%2F&website=fengxing&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Ffengxing%3Furl%3Dhttp%253A%252F%252Fwww.fun.tv%252Fvplay%252Fv-14023915%252F%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp7.qhimg.com%2Ft0172c7fd209effd6f9.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "大咖云集深陷谋杀案"
+                                }
+                            ]
+                        },
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01b92ba3c600a8947f.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "《狄仁杰之四大天王》",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=《狄仁杰之四大天王》&url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F318490%2F4114472.html&website=imgotv&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fimgotv%3Furl%3Dhttp%253A%252F%252Fwww.mgtv.com%252Fb%252F318490%252F4114472.html%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp3.qhimg.com%2Ft01b92ba3c600a8947f.jpg&duration=",
+                                    "word": "赵又廷林更新冯绍峰男神集结"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t01180a1bfe90b6911c.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "《移动迷宫3》先导预告",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=《移动迷宫3》先导预告&url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F318567%2F4117041.html&website=imgotv&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fimgotv%3Furl%3Dhttp%253A%252F%252Fwww.mgtv.com%252Fb%252F318567%252F4117041.html%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp7.qhimg.com%2Ft01180a1bfe90b6911c.jpg&duration=",
+                                    "word": "终极一战打响人类命悬一线"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t019325d24e40b0a8f8.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "《全球风暴》预告",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=《全球风暴》预告&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2F7EZoVBm0ZjX0&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252F7EZoVBm0ZjX0%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp7.qhimg.com%2Ft019325d24e40b0a8f8.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "花式毁地球！吴彦祖亲历地陷"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01e5b847afbdf69e7c.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "《英伦对决》海外伏击",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=《英伦对决》海外伏击&url=http%3A%2F%2Fv.pptv.com%2Fshow%2FB1gysRlic7y2QDnY.html&website=pptv&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fpptv%3Furl%3Dhttp%253A%252F%252Fv.pptv.com%252Fshow%252FB1gysRlic7y2QDnY.html%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp3.qhimg.com%2Ft01e5b847afbdf69e7c.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "成龙化身反恐精英设陷007"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "大片抢鲜看",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "本月看什么",
+                    "showMoreFlag": 1,
+                    "showMoreTips": "换一换",
+                    "tagUri": "qhvideo://vapp.360.cn/webview?url=http://www.360kan.com/special/guanying-2017-9-h5.html",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=22&title=电影&filter=11",
+                    "tipsWord": "最新上线"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t01a504c5756d722106.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "猩球崛起3",
+                                    "uri": "qhvideo://vapp.360.cn/webview?url=https%3A%2F%2Fweact.m.duiba.com.cn%2Fnewtools%2Findex%3Fid%3D2446942%26appKey%3D2JEzMQWdU6H7X2wuhMBwVxCTK9pG%26open4share%3Dtongdun",
+                                    "word": "点燃地球霸主之争"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t0151c39c99f9e1cce0.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "蜘蛛侠：英雄归来",
+                                    "uri": "qhvideo://vapp.360.cn/webview?url=https%3A%2F%2Factivity.m.duiba.com.cn%2Fquizz%2Findex%3Fid%3D2432571%26appKey%3D2JEzMQWdU6H7X2wuhMBwVxCTK9pG%26openBs%3Dopenbs",
+                                    "word": "史上最受欢迎小蜘蛛登场"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t0154eb327e83f105be.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "破·局",
+                                    "uri": "qhvideo://vapp.360.cn/special?subjectid=267",
+                                    "word": "郭富城王千源相爱相杀"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t018f6256b48901a424.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "心理罪",
+                                    "uri": "qhvideo://vapp.360.cn/special?subjectid=262",
+                                    "word": "李易峰廖凡演技爆表"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t012b52dfb75c2916c6.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "三生三世十里桃花",
+                                    "uri": "qhvideo://vapp.360.cn/webview?url=https%3A%2F%2Factivity.m.duiba.com.cn%2Fquizz%2Findex%3Fid%3D2361632%26appKey%3D2JEzMQWdU6H7X2wuhMBwVxCTK9pG%26openBs%3Dopenbs",
+                                    "word": "杨洋刘亦菲扎心虐恋！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t01b580d9ac5304729d.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "战狼2",
+                                    "uri": "qhvideo://vapp.360.cn/special?subjectid=255",
+                                    "word": "吴京演绎国产X战警"
+                                }
+                            ]
+                        },
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t0156c7b5dac2df43b7.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "悟空传",
+                                    "uri": "qhvideo://vapp.360.cn/special?subjectid=251",
+                                    "word": "史上最反叛热血悟空"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t017a4e73cf8b70f983.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "绣春刀2",
+                                    "uri": "qhvideo://vapp.360.cn/special?subjectid=252",
+                                    "word": "良心武侠电影推荐"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t01eb4f4aeed7d0250d.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "父子雄兵",
+                                    "uri": "qhvideo://vapp.360.cn/webview?url=https%3A%2F%2Factivity.m.duiba.com.cn%2Fquizz%2Findex%3Fid%3D2344909%26appKey%3D2JEzMQWdU6H7X2wuhMBwVxCTK9pG%26openBs%3Dopenbs",
+                                    "word": "坑爹也有上百种方法"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t01ef60bb138f5f2422.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "神偷奶爸3",
+                                    "uri": "qhvideo://vapp.360.cn/webview?url=http%3A%2F%2Factivity-1.m.duiba.com.cn%2Fquizz%2Findex%3Fid%3D2323858%26appKey%3D2JEzMQWdU6H7X2wuhMBwVxCTK9pG%26openBs%3Dopenbs",
+                                    "word": "萌贱代表重出江湖"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t0112d28c3f01278cb5.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "变形金刚5",
+                                    "uri": "qhvideo://vapp.360.cn/webview?url=https%3A%2F%2Factivity.m.duiba.com.cn%2Fquizz%2Findex%3Fid%3D2289353%26dblanding%3Dhttps%253A%252F%252Factivity.m.duiba.com.cn%252FactivityShare%252FgetActivityShareInfo%253FoperatingActivityId%253D2289353%26appKey%3D2JEzMQWdU6H7X2wuhMBwVxCTK9pG%26openBs%3Dopenbs",
+                                    "word": "掀机甲狂潮！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01a4078c83e6385c86.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "逆时营救",
+                                    "uri": "qhvideo://vapp.360.cn/special?subjectid=243",
+                                    "word": "穿越时空来救你"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "精彩专题",
+                    "blockType": "V",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "特色电影馆",
+                    "showMoreFlag": 1,
+                    "showMoreTips": "换一换",
+                    "tagUri": "qhvideo://vapp.360.cn/album",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=22&title=电影&filter=11",
+                    "tipsWord": "更多新片"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01416795576b366d4e.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "3.9分",
+                                        "type": "1"
+                                    },
+                                    "title": "那件疯狂的小事叫爱情",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hqfkZRH3QHb5UR",
+                                    "word": "陈伟霆上演“五十度灰”"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t01ec255cb28642afaa.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.5分",
+                                        "type": "1"
+                                    },
+                                    "title": "一夜惊喜",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=farnYUT7RHf2Th",
+                                    "word": "范爷卖萌床上诱惑"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t0141769f68f03ae309.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.0分",
+                                        "type": "1"
+                                    },
+                                    "title": "黄真伊",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gaTqaUIrdnb5SR",
+                                    "word": "乔妹演名妓挑战激情戏"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t011f07023d1c2184a8.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.6分",
+                                        "type": "1"
+                                    },
+                                    "title": "美国骗局",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gaTjZEX8RnL3UR",
+                                    "word": "心机大表姐睡衣秀性感"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "放浪不羁的青春",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "开启回忆杀",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/special?subjectid=235",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=23&title=电影&filter=11",
+                    "tipsWord": "更多欢笑时光"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t016cee589c5ac52d9e.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.3分",
+                                        "type": "1"
+                                    },
+                                    "title": "隐隐惊马槽",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gannZhH4R0b3TR",
+                                    "word": "你和僵尸有个约会！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t0199a79d61d035cdc4.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.1分",
+                                        "type": "1"
+                                    },
+                                    "title": "七月十四",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=fqXoakn6RXr4Th",
+                                    "word": "香港人这么吓小孩"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01eecc8d1da2abdf21.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.9分",
+                                        "type": "1"
+                                    },
+                                    "title": "天赐良缘",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=f6TnYkH6QXPASx",
+                                    "word": "见过这么萌的鬼么"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t01887c0e76369e1466.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.7分",
+                                        "type": "1"
+                                    },
+                                    "title": "七日重生",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gKjlZUTARXTASR",
+                                    "word": "最具文艺气质僵尸片"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t016c777e331f0fda94.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.0分",
+                                        "type": "1"
+                                    },
+                                    "title": "鬼打鬼",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gqPkZEX4RXX3Sh",
+                                    "word": "借尸还魂经典之作"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t017f204b188d61cae5.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.3分",
+                                        "type": "1"
+                                    },
+                                    "title": "驱魔警察",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gqTqahH1R0r8Tx",
+                                    "word": "做鬼还要贩毒赚钱"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "港味僵尸片",
+                    "blockType": "V",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "前方高能",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/special?subjectid=247",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=93&title=电影&filter=11",
+                    "tipsWord": "更多僵尸鬼怪"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t015cdbaf73307c0e94.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "2.8分",
+                                        "type": "1"
+                                    },
+                                    "title": "模特魅影",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gqjrYkT7RHL8Tx",
+                                    "word": "嫩模胸猛 内衣有鬼"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01453588c0bffca065.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.6分",
+                                        "type": "1"
+                                    },
+                                    "title": "夜遇空间",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hafjZRH4QHb6Sx",
+                                    "word": "乖乖女强扑男主"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t017040bdf85e595fc6.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.3分",
+                                        "type": "1"
+                                    },
+                                    "title": "剪刀手美少女",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hqbjaBH4QnT3Th",
+                                    "word": "美女医师要给你点颜色"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01913205fdee95c997.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.8分",
+                                        "type": "1"
+                                    },
+                                    "title": "宋朝女人那点事儿",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=g6PkZhH4QHj8SR",
+                                    "word": "撕破习俗束缚"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t016f0c1a141f3c4bc4.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.4分",
+                                        "type": "1"
+                                    },
+                                    "title": "宅男的终极幻想2",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=fqXmahH3RHX4TR",
+                                    "word": "快递小哥误开新世界大门"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01aba76371389fcce6.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.6分",
+                                        "type": "1"
+                                    },
+                                    "title": "颜值山海经",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=harkZBH4QHf6UB",
+                                    "word": "现代风水师VS暗器专家"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "网络大电影",
+                    "blockType": "V",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "玄幻世界",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=130&title=电影&filter=11",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=20&title=电影&filter=11",
+                    "tipsWord": "更多猛片"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01ed19e6ef894923b6.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.9分",
+                                        "type": "1"
+                                    },
+                                    "title": "极度恐惧之演员",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=fqPjYRH4QnLATB",
+                                    "word": "电影片场发生诡异事件"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t0143525ead6fda118e.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.7分",
+                                        "type": "1"
+                                    },
+                                    "title": "借眼",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gKfrZxH3Qnj8SR",
+                                    "word": "盲眼妈妈揭古宅秘密"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t01889b268e79c71207.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.4分",
+                                        "type": "1"
+                                    },
+                                    "title": "笔仙撞碟仙",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=g6ToYRH2Qnj7SB",
+                                    "word": "邪魅妖灵揭秘通灵真相"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t01592aa12ea2397402.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.1分",
+                                        "type": "1"
+                                    },
+                                    "title": "深海狂鲨",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=faToaEUoQHT5SB",
+                                    "word": "当鲨鱼学会了复仇"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t012115b10a6907a9b7.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.1分",
+                                        "type": "1"
+                                    },
+                                    "title": "凌晨三点2",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=g6LiYRH1SHPASh",
+                                    "word": "三个泰式恐怖小故事"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t016712a8b0522305fe.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "2.4分",
+                                        "type": "1"
+                                    },
+                                    "title": "食人岛",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gqvkYxH3R0P0UR",
+                                    "word": "“死亡岛屿”暗藏杀机"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "异次元空间",
+                    "blockType": "V",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "世界几大凶宅",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/special?subjectid=247",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=93&title=电影&filter=11",
+                    "tipsWord": "胆大点这里"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t0163c6bbb305430201.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.4分",
+                                        "type": "1"
+                                    },
+                                    "title": "非凡任务",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gKrlZBH3SHP2TB",
+                                    "word": "缉毒大戏火力全开"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t01a4b518aee68cfd87.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.0分",
+                                        "type": "1"
+                                    },
+                                    "title": "危城",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=garkYxH3Qnj4Sh",
+                                    "word": "彭于晏吴京开打演绎新武侠"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t01f59baff9e91abc77.jpg",
+                                    "dynamicImg": "http://p7.qhimg.com/t01ede9a3bd5252cbae.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.8分",
+                                        "type": "1"
+                                    },
+                                    "title": "战狼",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gaLiYhH1QnH4TR",
+                                    "word": "中国硬汉出马 不服来战！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t01af707d9ef9e3dc36.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.3分",
+                                        "type": "1"
+                                    },
+                                    "title": "杀破狼2",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gqTlZxH1RXb4SB",
+                                    "word": "吴京张晋打斗堪称经典"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "中国硬汉 热血男儿",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "吴京电影盘点",
+                    "showMoreFlag": 1,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/special?subjectid=255",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=20&title=电影&filter=11",
+                    "tipsWord": "更多男儿本色"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t01071f04bf70b5790f.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.7分",
+                                        "type": "1"
+                                    },
+                                    "title": "敢死队3",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=fqXlaRH1Q0n6Sh",
+                                    "word": "是男人就得硬起来！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t01480c58dfce3e4cec.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.9分",
+                                        "type": "1"
+                                    },
+                                    "title": "暴力街区",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=fqXoZhH1Q0n5UR",
+                                    "word": "要玩命的请留步"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t011403216f567bbfe0.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.2分",
+                                        "type": "1"
+                                    },
+                                    "title": "极速之巅",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=favmaRH3S0b7SR",
+                                    "word": "逆天老司机飙车啦！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01a6614055985bea2d.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.1分",
+                                        "type": "1"
+                                    },
+                                    "title": "天地逃生",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=f6XmZUotd0T0UB",
+                                    "word": "真人版反恐精英！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01def2751c179c69d0.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.8分",
+                                        "type": "1"
+                                    },
+                                    "title": "怒火攻心2：高压电",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gabkZUH5RHP1SR",
+                                    "word": "斯坦森R级片神作"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t014905d56b407c3f0a.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "8.7分",
+                                        "type": "1"
+                                    },
+                                    "title": "血战钢锯岭",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=faTjZRH3R0T3TB",
+                                    "word": "战场上挑战极限"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "考验心脏的时刻",
+                    "blockType": "V",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "让心跳再快一点",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=20&title=电影&filter=11",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t010a2167f75d4aea8e.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "9.1分",
+                                        "type": "1"
+                                    },
+                                    "title": "摔跤吧！爸爸",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gKriYhH4QXH3Tx",
+                                    "word": "阿米尔汗化身魔鬼教练"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t015ba0483cb6253e88.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.5分",
+                                        "type": "1"
+                                    },
+                                    "title": "英雄威尔",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hqLlakX8S0T3UR",
+                                    "word": "关于荣誉与爱情的历史"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01b2329edf83bc2c76.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.2分",
+                                        "type": "1"
+                                    },
+                                    "title": "巴霍巴利王：开端",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gKXmZxH3QnXATR",
+                                    "word": "印度版冰与火之歌"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t01239bab78479a94f8.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "9.1分",
+                                        "type": "1"
+                                    },
+                                    "title": "三傻大闹宝莱坞",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gqPiYkL5SHP8UB",
+                                    "word": "朋友是男人最大的胸部"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t016f69148eb2cdda9b.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "8.0分",
+                                        "type": "1"
+                                    },
+                                    "title": "未知死亡",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hKLjYkH5SHX4Th",
+                                    "word": "硬汉对抗15分钟记忆"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t0196434ec572c3a1c2.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.6分",
+                                        "type": "1"
+                                    },
+                                    "title": "脑残粉",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=f6biZhH3Rnr1Th",
+                                    "word": "巨星黑粉撕逼大战！"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "印度开挂神片",
+                    "blockType": "V",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "欢笑背后是感动",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=23&title=电影&filter=11",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=23&title=电影&filter=11",
+                    "tipsWord": "更多佳作"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t01fc799b3e1055b002.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.6分",
+                                        "type": "1"
+                                    },
+                                    "title": "功夫小兔侠",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hKTiZBH4QnL6UR",
+                                    "word": "超萌小兔迎战神府学校"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t01a27afc60e928a001.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.9分",
+                                        "type": "1"
+                                    },
+                                    "title": "驯龙高手2",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gKPkZkTBSHnATR",
+                                    "word": "恐怖飞龙变最霸气萌宠"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t01d27a298f7e44fca6.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.8分",
+                                        "type": "1"
+                                    },
+                                    "title": "摇滚藏獒",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=haTjaBH3QXb8Sx",
+                                    "word": "国产“疯狂动物城”"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t0170ee3d48481fdc29.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.2分",
+                                        "type": "1"
+                                    },
+                                    "title": "亚瑟和他的迷你王国2",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hafpY0X2Rnr5TR",
+                                    "word": "真人亚瑟重返王国拯救爱人"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t017342b0b94244cd11.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "8.7分",
+                                        "type": "1"
+                                    },
+                                    "title": "玩具总动员3",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hKrkYkT2Rnn1UR",
+                                    "word": "飞向童真，美梦无限"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t016838a9438092ca54.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.6分",
+                                        "type": "1"
+                                    },
+                                    "title": "马达加斯加2",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=faTiZhH2QHL0Sx",
+                                    "word": "动物园跑出“越狱者”"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "童心培育基地",
+                    "blockType": "V",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "小黄人又来了",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/webview?url=http%3A%2F%2Factivity-1.m.duiba.com.cn%2Fquizz%2Findex%3Fid%3D2323858%26appKey%3D2JEzMQWdU6H7X2wuhMBwVxCTK9pG%26openBs%3Dopenbs",
+                    "tipsUri": "qhvideo://vapp.360.cn/channel?catid=4&tid=23&title=电影&filter=11",
+                    "tipsWord": "还有更萌的"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t017ee96c7995125095.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.2分",
+                                        "type": "1"
+                                    },
+                                    "title": "原罪少女",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=f6TmYRH2QXP6SB",
+                                    "word": "纯情少女入歧途落欢场"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01956c104f42ee2c87.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "5.4分",
+                                        "type": "1"
+                                    },
+                                    "title": "捉迷藏",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=fqvjZBH3Qnj5UB",
+                                    "word": "霍建华噩梦缠身遭暴虐"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t01699721c893b8471c.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.3分",
+                                        "type": "1"
+                                    },
+                                    "title": "海底总动员2",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=faLkZxH3Qnj4TR",
+                                    "word": "多莉寻亲猛戳泪点"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t018e21ce4400340fb7.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "6.8分",
+                                        "type": "1"
+                                    },
+                                    "title": "乘风破浪",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=fqPiYRH4Q0X2TB",
+                                    "word": "邓超穿越插足父母爱情"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t011e978a2d7619e4b4.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "3.3分",
+                                        "type": "1"
+                                    },
+                                    "title": "王牌逗王牌",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gqbnZhH2RHH2SB",
+                                    "word": "黄教主遭亲妈捆绑"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t010f16f89712753e5c.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "7.7分",
+                                        "type": "1"
+                                    },
+                                    "title": "罗曼蒂克消亡史",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=faPiZBH1RnH5UB",
+                                    "word": "荷尔蒙与子弹齐飞"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "百视通专区",
+                    "blockType": "V",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "更多大片",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=173&tid=398&title=百视通专区&filter=1",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                }
+            ],
+            "focus": [
+                {
+                    "cover": "http://p9.qhimg.com/t01f29f115cc433263e.png",
+                    "markIcon": "",
+                    "shouzhu": 1,
+                    "title": "2017最解渴爱情片！野蛮女友玩到你崩溃",
+                    "uri": "qhvideo://vapp.360.cn/special?subjectid=290"
+                },
+                {
+                    "cover": "http://p9.qhimg.com/t01889bd11aa9d60bcf.jpg",
+                    "markIcon": "",
+                    "shouzhu": 0,
+                    "title": "《救世》北欧牛仔以暴制暴以血还血",
+                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gaflaRH2QXf2UB"
+                },
+                {
+                    "cover": "http://p5.qhimg.com/t0133a8134d34be3109.jpg",
+                    "markIcon": "",
+                    "shouzhu": 0,
+                    "title": "《人偶寻爱记》来自充气娃娃的捉弄",
+                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=gqLpYhH3SHP4UR"
+                }
+            ],
+            "searchHotword": "摔跤吧！爸爸"
+        },
+        "error": 0
+    }
+}

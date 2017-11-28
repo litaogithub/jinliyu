@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DoDoAppTheme" parent="DoDoAppTheme.Base">
+        <item name="android:windowBackground">@color/app_background</item>
+        <!--状态栏透明-->
+        <!--<item name="android:statusBarColor">@android:color/transparent</item>-->
+    </style>
+
+</resources>

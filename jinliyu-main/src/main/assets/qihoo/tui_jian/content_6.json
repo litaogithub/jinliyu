@@ -1,0 +1,1408 @@
+﻿{
+    "data": {
+        "data": {
+            "blocks": [
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t0102e449caa2b31aab.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至13集",
+                                        "type": "2"
+                                    },
+                                    "title": "天谕",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=Ok4na57kMYC3CD",
+                                    "word": "游戏场景真实还原"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t014947c1dcadda9717.jpg",
+                                    "dynamicImg": "http://p7.qhimg.com/t01cbf11fd6fe72affa.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至18集",
+                                        "type": "2"
+                                    },
+                                    "title": "和女儿的日常 第二季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PUboa57kMIavCj",
+                                    "word": "萌萌哒小盒子超暖的父爱"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t018b3bf811ed681543.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至26集",
+                                        "type": "2"
+                                    },
+                                    "title": "口水三国 第二季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OU8mcp7kMYCwCD",
+                                    "word": "最萌的原来是貂蝉？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t012a23b3474c5de7a4.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至15集",
+                                        "type": "2"
+                                    },
+                                    "title": "妖怪公寓的幽雅日常",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=QUHrbp7kMo70Cj",
+                                    "word": "同居生活就是要开环大笑~"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t018bcdbc766479f509.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至1集",
+                                        "type": "2"
+                                    },
+                                    "title": "凹凸世界 第2季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=O0XnbZ7kM4avCT",
+                                    "word": "实现愿望的比赛"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t01fd635a99cea021be.jpg",
+                                    "dynamicImg": "http://p5.qhimg.com/t014fe3040b675218b0.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全11集",
+                                        "type": "2"
+                                    },
+                                    "title": "夏目友人帐 第六季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=O0Hta57kMY7vCz",
+                                    "word": "超萌小喵一夜变猛兽"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "热门推荐",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "人气动漫go！",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=18&title=动漫&filter=14",
+                    "tipsUri": "",
+                    "tipsWord": "来戳我吖~"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01a2b9b573c36e0fb2.jpg",
+                                    "dynamicImg": "http://p7.qhimg.com/t012afcddef6f24f3fc.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "裸体汉子丝毫不留情！",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=裸体汉子丝毫不留情！&url=http%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav14637877%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttp%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav14637877%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp3.qhimg.com%2Ft01a2b9b573c36e0fb2.jpg&duration=",
+                                    "word": "惨了小萝莉！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01f7420cd2f06fe81b.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "卖肉？非卖肉的后宫番",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=卖肉？非卖肉的后宫番&url=http%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav14755730%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttp%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav14755730%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp2.qhimg.com%2Ft01f7420cd2f06fe81b.jpg&duration=",
+                                    "word": " 良心推荐十大后宫番推荐"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t016615ec51ef6f34f9.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "这些入宅后宫番都看过嘛？",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=这些入宅后宫番都看过嘛？&url=http%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav14685583%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttp%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav14685583%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp4.qhimg.com%2Ft016615ec51ef6f34f9.jpg&duration=",
+                                    "word": "交封不杀番名：天降之物"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t017f115ad8ec7ab59d.jpg",
+                                    "dynamicImg": "http://p8.qhimg.com/t01d04bd1f217898fd9.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "我tm到底看了什么番",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=我tm到底看了什么番&url=http%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav14728824%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttp%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav14728824%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp6.qhimg.com%2Ft017f115ad8ec7ab59d.jpg&duration=",
+                                    "word": "笑哭了我滴小伙伴~"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t01634b03a625d57f12.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "这么美的小姐姐是画画的？",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=这么美的小姐姐是画画的？&url=http%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav14661628%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttp%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav14661628%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp8.qhimg.com%2Ft01634b03a625d57f12.jpg&duration=",
+                                    "word": "竟然还是《搞姬日常》？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t01c099ef28a171e62a.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "刀剑神域剧场版那些彩蛋",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=刀剑神域剧场版那些彩蛋&url=http%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav14713500%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttp%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav14713500%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp7.qhimg.com%2Ft01c099ef28a171e62a.jpg&duration=",
+                                    "word": "越看越刺激~"
+                                }
+                            ]
+                        },
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t0166aae9ab788bd79e.jpg",
+                                    "dynamicImg": "http://p6.qhimg.com/t01ab437489f92cdafd.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "真人版干物妹小埋！",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=真人版干物妹小埋！&url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav2751717%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttps%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav2751717%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp2.qhimg.com%2Ft0166aae9ab788bd79e.jpg&duration=",
+                                    "word": "萌掉我一升血~"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t019285f002374c970c.jpg",
+                                    "dynamicImg": "http://p9.qhimg.com/t01ae6dfb4a1f31c43e.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "小姐姐的完美舞步",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=小姐姐的完美舞步&url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav11067265%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttps%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav11067265%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp0.qhimg.com%2Ft019285f002374c970c.jpg&duration=",
+                                    "word": "看的人心花怒放~"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t0168318139f2e0b24a.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "如何调戏隔壁女高中生？",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=如何调戏隔壁女高中生？&url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav8272120%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttps%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav8272120%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp7.qhimg.com%2Ft0168318139f2e0b24a.jpg&duration=",
+                                    "word": "放着我来~~"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t0133e275849a73fcd3.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "此坑深腐必入！！",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=此坑深腐必入！！&url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav8151950%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttps%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav8151950%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp7.qhimg.com%2Ft0133e275849a73fcd3.jpg&duration=",
+                                    "word": "这么可爱的人不多见了~"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t01556695e91249a5ef.jpg",
+                                    "dynamicImg": "http://p9.qhimg.com/t017ac3e8648fe59419.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "虚拟女孩熟肉合集",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=虚拟女孩熟肉合集&url=http%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav9792476%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttp%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav9792476%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp7.qhimg.com%2Ft01556695e91249a5ef.jpg&duration=",
+                                    "word": "我也要这样打广告~"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t0164e0b9814b395f4c.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "绅士们的腿控时间~",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=绅士们的腿控时间~&url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav14009003%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttps%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav14009003%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp2.qhimg.com%2Ft0164e0b9814b395f4c.jpg&duration=",
+                                    "word": "腿玩年呀！"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "福利区prpr~",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "惊喜不停",
+                    "showMoreFlag": 1,
+                    "showMoreTips": "更多福利戳这里~",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=18&title=动漫&filter=14",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t01c82ee494b7979a04.jpg",
+                                    "dynamicImg": "http://p4.qhimg.com/t011db03c396784a646.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至14集",
+                                        "type": "2"
+                                    },
+                                    "title": "咕噜咕噜魔法阵 新系列",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PUHlbp7kMoG3CD",
+                                    "word": "赤裸裸的童年经典系列~"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t011217d8475d0845ef.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至7集",
+                                        "type": "2"
+                                    },
+                                    "title": "梦之祭！R",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=Qk4ka57kM4SxDz",
+                                    "word": "经典男团再次开唱"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01b6a0b09d69bf5ab7.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全1集",
+                                        "type": "2"
+                                    },
+                                    "title": "SHADOW OF LAFFANDOR",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=QU4mbJ7kMoKzDT",
+                                    "word": "音乐剧一样的动漫！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t01413f4becab27752f.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全集",
+                                        "type": "2"
+                                    },
+                                    "title": "初音岛第二季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=O0Pkbp7kMoKxET",
+                                    "word": "少女原动力的集结地~"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t01016cfc93d36937cb.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全12集",
+                                        "type": "2"
+                                    },
+                                    "title": "地狱少女 宵伽",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OUXkaZ7kMoK0CT",
+                                    "word": "开启你的缜密逻辑"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01fa15a7627c72a5cc.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全集",
+                                        "type": "2"
+                                    },
+                                    "title": "恶魔城",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=P0Tnap7kMoC1CD",
+                                    "word": "角色扮演？还是热血少年？"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "二次元狂热",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "新剧连载go！",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=11&tid=90&title=新番",
+                    "tipsUri": "",
+                    "tipsWord": "→小黑屋入口"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t01714f509f32c34b8e.jpg",
+                                    "dynamicImg": "http://p2.qhimg.com/t0198af3da72ee5ffca.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全13集",
+                                        "type": "2"
+                                    },
+                                    "title": "三人行必有我妹",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OUbpasCkL47xCz",
+                                    "word": "和妹妹的羞耻日常"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t01c5abae5ab27bc15f.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至6集",
+                                        "type": "2"
+                                    },
+                                    "title": "生存游戏社OVA",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PEPpaZ7jLoKvDj",
+                                    "word": "纯净的百合之恋"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t01b7705642f45615c3.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全26集",
+                                        "type": "2"
+                                    },
+                                    "title": "惊爆草莓",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=Ok8nac4VLYG2DT",
+                                    "word": "男子禁入的百合圣地！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01b4214f07a2a9b38e.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全24集",
+                                        "type": "2"
+                                    },
+                                    "title": "茜色的调色板",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=P0HpacbVLYWwDj",
+                                    "word": "多角复杂的恋爱记"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t01edeb3fbbe45e49b7.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全25集",
+                                        "type": "2"
+                                    },
+                                    "title": "樱花大战",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PUDpac8YLoKwET",
+                                    "word": "樱花少女大玩捆绑"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t0122f494948b0c5849.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全2集",
+                                        "type": "2"
+                                    },
+                                    "title": "摇曳百合OVA夏日时光",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=O0LnbJ7jMoOvED",
+                                    "word": "这波马赛克画的6"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "禁忌之恋",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "没看够？戳这里",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=18&title=动漫&filter=14",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t011f1a08ecc8cf6eca.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "高冷小姐姐为你服务",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=高冷小姐姐为你服务&url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav14457262%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttps%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav14457262%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp9.qhimg.com%2Ft011f1a08ecc8cf6eca.jpg&duration=",
+                                    "word": "请准备好纸巾和耳机"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t0129bfb6604afc8864.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "《噬神者》超燃金曲",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=《噬神者》超燃金曲&url=http%3A%2F%2Fv.360kan.com%2Fsv%2FcYTkcmboTRn6SS.html&website=fanqie&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fmovie%2Ffanqie%3Furl%3Dhttp%253A%252F%252Fv.360kan.com%252Fsv%252FcYTkcmboTRn6SS.html%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp8.qhimg.com%2Ft0129bfb6604afc8864.jpg&duration=02:41&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "听到汗毛竖起来"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t0153b9d2c3ee1527d0.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "日语版《突然好想你》",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=日语版《突然好想你》&url=http%3A%2F%2Fv.360kan.com%2Fsv%2FbYLoOWDkTBT1TC.html&website=fanqie&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fmovie%2Ffanqie%3Furl%3Dhttp%253A%252F%252Fv.360kan.com%252Fsv%252FbYLoOWDkTBT1TC.html%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp8.qhimg.com%2Ft0153b9d2c3ee1527d0.jpg&duration=03:32&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "好听到爆！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01467ab9a15c79211d.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "福利双耳的舔音",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=福利双耳的舔音&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FOJxQ2vv07PWQ&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fk.360kan.com%252Fpc%252Fdetail%252FOJxQ2vv07PWQ%26m3u%3D1%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp2.qhimg.com%2Ft01467ab9a15c79211d.jpg&duration=&adsupport=1&AdDuration=15&picDuration=3",
+                                    "word": "温馨提示：建议戴耳机"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t01f5e720bdecb811ca.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "奥特曼还卖萌？",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=奥特曼还卖萌？&url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav14683705%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttps%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav14683705%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp5.qhimg.com%2Ft01f5e720bdecb811ca.jpg&duration=",
+                                    "word": "声音甜到忍不了~"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t0152c055f7c65c3db1.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "2"
+                                    },
+                                    "title": "抖腿不能停都是福利呀~",
+                                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=抖腿不能停都是福利呀~&url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav2089301%2F&website=bilibili&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fbilibili%3Furl%3Dhttps%253A%252F%252Fwww.bilibili.com%252Fvideo%252Fav2089301%252F%26m3u%3D0%26quality%3Dnormal%26act%3Dplay&cover=http%3A%2F%2Fp2.qhimg.com%2Ft0152c055f7c65c3db1.jpg&duration=",
+                                    "word": "画风异变，宛如制杖！"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "声控们的耳音福利~",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "惊喜看不停",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=18&title=动漫&filter=14",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t015ce07e0f9f251086.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全12集",
+                                        "type": "2"
+                                    },
+                                    "title": "欢迎来到实力至上主义的教室",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PUfqbJ7kMoKxDD",
+                                    "word": "7月最强泳装番！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t01ad0c2ad57c52e4a7.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全17集",
+                                        "type": "2"
+                                    },
+                                    "title": "恋爱随意链接",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OULra8CkL4zxCj",
+                                    "word": "校服群才是王道！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t0153ffb8d00b22f993.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至3集",
+                                        "type": "2"
+                                    },
+                                    "title": "临时女友web版",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OUDkcp7kLoW3ED",
+                                    "word": "泳装也有超短裙？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t011d4414b5b5583b03.jpg",
+                                    "dynamicImg": "http://p4.qhimg.com/t0105655e556a5819b6.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全13集",
+                                        "type": "2"
+                                    },
+                                    "title": "真实之泪",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=P0HqbsfbY4a2Dj",
+                                    "word": "温情路线的小短裙~纸已备"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t013ed662bdc801690c.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全24集",
+                                        "type": "2"
+                                    },
+                                    "title": "科学的超电磁炮第一季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PE4pacHUMoWvCD",
+                                    "word": "这么虐待双马尾？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01c22a12c51316b748.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至12集",
+                                        "type": "2"
+                                    },
+                                    "title": "绯弹的亚里亚AA",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PkDka57jNYK1CD",
+                                    "word": "短裙高筒袜才是标配"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "听说穿短裙滴都很腻害~",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "超多小姐姐！",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=18&title=动漫&filter=14",
+                    "tipsUri": "",
+                    "tipsWord": "来戳我吖~"
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t01fdc24c1f6ea03bac.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至28集",
+                                        "type": "2"
+                                    },
+                                    "title": "美妙天堂 偶像时间",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PkLkaZ7kMYz2Cz",
+                                    "word": "软萌妹子好想咬一口"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t01361ba3bc884e0071.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至12集",
+                                        "type": "2"
+                                    },
+                                    "title": "伪恋",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=P0Poa8KlNIO0Dz",
+                                    "word": "与海归大小姐假装恋爱"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01c3e8bdad86f2df7f.gif",
+                                    "dynamicImg": "http://p8.qhimg.com/t01754573f18a1deae1.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全12集",
+                                        "type": "2"
+                                    },
+                                    "title": "无畏魔女",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=QE4oa57kLoSzCj",
+                                    "word": "魔法少女不是好惹的"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01fac75d19a55012cc.gif",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全12集",
+                                        "type": "2"
+                                    },
+                                    "title": "风夏",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=Ok4ocJ7kL4a0Cj",
+                                    "word": "三角恋最复杂了~"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t015f03ff4a4d8c8a7c.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全13集",
+                                        "type": "2"
+                                    },
+                                    "title": "BanG Dream!",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=O0DrcZ7kMI71ET",
+                                    "word": "玩乐队的女生最酷！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t015c0c82a61bdca874.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全1集",
+                                        "type": "2"
+                                    },
+                                    "title": "装神少女小缠OVA",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=QEPmap7kMYC3ET",
+                                    "word": "友情万岁的神庙社"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "千面娇娃：可不是吃素的~",
+                    "blockType": "V",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "少女控福利",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=18&title=动漫&filter=14",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t0184fa761e7158688e.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全12集",
+                                        "type": "2"
+                                    },
+                                    "title": "美男高校地球防卫部",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PEXlaZ7kLYCyDT",
+                                    "word": "诱惑？羞耻？辣眼睛？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t011a6ce9550ff665e5.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至4集",
+                                        "type": "2"
+                                    },
+                                    "title": "眷恋你的温柔",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PEHna57jLoG3ET",
+                                    "word": "小哥哥们的恋爱日记"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t01a0bf72285e50c478.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全12集",
+                                        "type": "2"
+                                    },
+                                    "title": "公主X公主",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=P0HkbsDUMY3vDj",
+                                    "word": "女装伪娘也能做偶像？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t01c221054f693b25b8.jpg",
+                                    "dynamicImg": "http://p1.qhimg.com/t0148d0a09d296e26ba.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全集",
+                                        "type": "2"
+                                    },
+                                    "title": "黑执事第二季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=QELra8TbL47uDj",
+                                    "word": "傲娇少爷与执事的羁绊"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t0109fe6fe8306307e3.jpg",
+                                    "dynamicImg": "http://p1.qhimg.com/t01118d5cef492c2b11.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全1集",
+                                        "type": "2"
+                                    },
+                                    "title": "世界第一初恋剧场版",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkDrcZ7jLYK1CD",
+                                    "word": "霸道总裁攻华丽上线"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01624b96c8688370d0.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全26集",
+                                        "type": "2"
+                                    },
+                                    "title": "热诚传说X",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=Ok8qbJ7kLY7vCD",
+                                    "word": "勇敢的斗士男友力90+"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "耽于男色：老公成群~",
+                    "blockType": "V",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "多个鲜肉不嫌少",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=18&title=动漫&filter=14",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t01132693477842e85e.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全40集",
+                                        "type": "2"
+                                    },
+                                    "title": "妖神记",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PkPoap7kMYKvET",
+                                    "word": "你也想和妖怪谈恋爱？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t01264bae03857b66a6.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至35集",
+                                        "type": "2"
+                                    },
+                                    "title": "奔波儿灞与灞波儿奔",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkDmap7jM4C0Cz",
+                                    "word": "今天你的鱼尾纹我承包了"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t019d162bbde82a0698.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全26集",
+                                        "type": "2"
+                                    },
+                                    "title": "篮球少年",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=Okbmbs7kM4GuDT",
+                                    "word": "儿时炽热的篮球梦"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t01720102fc2ffe5c97.jpg",
+                                    "dynamicImg": "http://p5.qhimg.com/t01ce46cfb28dbc27e3.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至1821集",
+                                        "type": "2"
+                                    },
+                                    "title": "蜡笔小新 第五季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=Ok4ncp7jNIazCj",
+                                    "word": "永远长不大的熊孩子"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t01bd03bfbe2060db5b.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全26集",
+                                        "type": "2"
+                                    },
+                                    "title": "侠岚",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=O0fta57jNI3wCD",
+                                    "word": "三魂零藏能否顺利破坏？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t015e6239095069bc32.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全43集",
+                                        "type": "2"
+                                    },
+                                    "title": "麻辣教师GTO国语",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkHqap7jLISuCz",
+                                    "word": "暴走老师从良教书记"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "经典再现",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "精彩回顾",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=18&title=动漫&filter=14",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                }
+            ],
+            "focus": [
+                {
+                    "cover": "http://p0.qhimg.com/t01819ba3731502c9d7.jpg",
+                    "markIcon": "",
+                    "shouzhu": 0,
+                    "title": "博人传 火影忍者新时代(至13集)",
+                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PULtcp7kMY3uCT"
+                },
+                {
+                    "cover": "http://p9.qhimg.com/t010aa25b9aa20f9174.jpg",
+                    "markIcon": "",
+                    "shouzhu": 0,
+                    "title": "我的天劫女友(至3集)",
+                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PkDpcp7kM4SxDj"
+                },
+                {
+                    "cover": "http://p9.qhimg.com/t01a673a3c52b423982.jpg",
+                    "markIcon": "",
+                    "shouzhu": 0,
+                    "title": "太乙仙魔录之灵飞纪2(至25集)",
+                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OUXmbp7kMISwDj"
+                }
+            ],
+            "searchHotword": "摔跤吧！爸爸"
+        },
+        "error": 0
+    }
+}

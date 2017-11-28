@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="-40dp"
+        android:scaleType="centerCrop"
+        android:visibility="gone"/>
+
+    <LinearLayout
+        android:id="@+id/ll_header"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="3dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="8dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/tool_bar_background" />
+
+        <TextView
+            android:id="@+id/block_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:maxLines="1"
+            android:text="劲爆体育"
+            android:textColor="#cc000000"
+            android:textSize="14sp" />
+
+
+        <TextView
+            android:id="@+id/tips_word"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical|right"
+            android:maxLines="1"
+            android:text="体坛快讯"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="11sp"/>
+
+    </LinearLayout>
+
+</FrameLayout>

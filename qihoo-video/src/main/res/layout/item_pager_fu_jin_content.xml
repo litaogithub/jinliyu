@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="165dp"
+    android:paddingTop="2dp">
+
+    <ImageView
+        android:id="@+id/cover"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/live_list_tv_default_bg" />
+
+    <FrameLayout
+        android:id="@+id/press"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/item_img_selector" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/video_item_mask" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:paddingBottom="6dp"
+        android:paddingLeft="3dp">
+
+        <ImageView
+            android:id="@+id/headImg"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center_vertical"
+            android:scaleType="centerCrop"
+            android:src="@drawable/conan_144" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/headName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="6dp"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:maxLines="1"
+                android:text="综艺"
+                android:textColor="@android:color/white"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/region"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="6dp"
+                android:gravity="center_vertical"
+                android:text="100m以内"
+                android:textColor="#aaffffff"
+                android:textSize="10sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,131 @@
+﻿{
+    "data": {
+        "data": {
+            "major": [
+                {
+                    "icon": "http://p3.qhimg.com/t010b3bd5f22a6e102e.png",
+                    "reddot": 0,
+                    "title": "电视剧",
+                    "uri": "qhvideo://vapp.360.cn/channel?catid=3&tid=3&title=电视剧&filter=12"
+                },
+                {
+                    "icon": "http://p6.qhimg.com/t014fa4d2dd34c11400.png",
+                    "reddot": 0,
+                    "title": "电影",
+                    "uri": "qhvideo://vapp.360.cn/channel?catid=4&tid=22&title=电影&filter=11"
+                },
+                {
+                    "icon": "http://p0.qhimg.com/t01b91467dd80141a9b.png",
+                    "reddot": 0,
+                    "title": "综艺",
+                    "uri": "qhvideo://vapp.360.cn/channel?catid=5&tid=11&title=综艺&filter=13"
+                },
+                {
+                    "icon": "http://p6.qhimg.com/t01e6254224d392682f.png",
+                    "reddot": 0,
+                    "title": "动漫",
+                    "uri": "qhvideo://vapp.360.cn/channel?catid=6&tid=18&title=动漫&filter=14"
+                },
+                {
+                    "icon": "http://p2.qhimg.com/t0125995f205d37bf70.png",
+                    "reddot": 0,
+                    "title": "魔法口袋",
+                    "uri": "qhvideo://vapp.360.cn/offline?index=2"
+                },
+                {
+                    "icon": "http://p2.qhimg.com/t018bf13cf701a63ddc.png",
+                    "reddot": 0,
+                    "title": "少儿",
+                    "uri": "qhvideo://vapp.360.cn/channel?catid=6&tid=101&title=少儿动画&&filter=14"
+                },
+                {
+                    "icon": "http://p7.qhimg.com/t0194e031814a7f8308.png",
+                    "reddot": 0,
+                    "title": "专题",
+                    "uri": "qhvideo://vapp.360.cn/album"
+                },
+                {
+                    "icon": "http://p0.qhimg.com/t014b90ebc10eeb1365.png",
+                    "reddot": 0,
+                    "title": "搞笑",
+                    "uri": "qhvideo://vapp.360.cn/shortvideochannel?catid=10002&tid=2&title=搞笑"
+                }
+            ],
+            "minor": [
+                {
+                    "icon": "http://p5.qhimg.com/t0126c4a3a55cd71573.png",
+                    "reddot": 0,
+                    "title": "体育",
+                    "uri": "qhvideo://vapp.360.cn/shortvideochannel?catid=10012&tid=12&title=体育"
+                },
+                {
+                    "icon": "http://p0.qhimg.com/t01c1840918740f389e.png",
+                    "reddot": 0,
+                    "title": "新闻",
+                    "uri": "qhvideo://vapp.360.cn/shortvideochannel?catid=10003&tid=3&title=新闻"
+                },
+                {
+                    "icon": "http://p3.qhimg.com/t0175da04b872f92950.png",
+                    "reddot": 0,
+                    "title": "汽车",
+                    "uri": "qhvideo://vapp.360.cn/shortvideochannel?catid=10023&tid=23&title=汽车"
+                },
+                {
+                    "icon": "http://p7.qhimg.com/t0147ae070f0fee8055.png",
+                    "reddot": 0,
+                    "title": "军事",
+                    "uri": "qhvideo://vapp.360.cn/shortvideochannel?catid=10019&tid=19&title=军事"
+                },
+                {
+                    "icon": "http://p1.qhimg.com/t0125a90600203cf39c.png",
+                    "reddot": 0,
+                    "title": "游戏",
+                    "uri": "qhvideo://vapp.360.cn/shortvideochannel?catid=10011&tid=11&title=游戏"
+                },
+                {
+                    "icon": "http://p1.qhimg.com/t014fa8f701b7a32129.png",
+                    "reddot": 0,
+                    "title": "科技",
+                    "uri": "qhvideo://vapp.360.cn/shortvideochannel?catid=10007&tid=7&title=科技"
+                },
+                {
+                    "icon": "http://p5.qhimg.com/t01c8a85ab710ed1846.png",
+                    "reddot": 0,
+                    "title": "电视台",
+                    "uri": "qhvideo://vapp.360.cn/livelist"
+                },
+                {
+                    "icon": "http://p2.qhimg.com/t018e89bb22b958aaf6.png",
+                    "reddot": 0,
+                    "title": "娱乐",
+                    "uri": "qhvideo://vapp.360.cn/shortvideochannel?catid=10001&tid=1&title=娱乐"
+                },
+                {
+                    "icon": "http://p4.qhimg.com/t017452e2e041ee39e8.png",
+                    "reddot": 0,
+                    "title": "音乐",
+                    "uri": "qhvideo://vapp.360.cn/shortvideochannel?catid=10013&tid=13&title=音乐"
+                },
+                {
+                    "icon": "http://p4.qhimg.com/t01d77116cd684cae7e.png",
+                    "reddot": 0,
+                    "title": "直播",
+                    "uri": "qhvideo://vapp.360.cn/webview?url=http%3A%2F%2Fh.open.huajiao.com%3Fchannelid%3Dyingshi360"
+                },
+                {
+                    "icon": "http://p2.qhimg.com/t01d2b9c06c316ea62b.png",
+                    "reddot": 0,
+                    "title": "生活",
+                    "uri": "qhvideo://vapp.360.cn/shortvideochannel?catid=10018&tid=18&title=生活"
+                },
+                {
+                    "icon": "http://p7.qhimg.com/t01da6db10809763b14.png",
+                    "reddot": 0,
+                    "title": "排行",
+                    "uri": "qhvideo://vapp.360.cn/rank"
+                }
+            ]
+        },
+        "error": 0
+    }
+}

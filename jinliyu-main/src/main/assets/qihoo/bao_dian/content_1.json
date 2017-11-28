@@ -1,0 +1,440 @@
+﻿{
+    "data": {
+        "data": {
+            "datas": [
+                {
+                    "adsupport": 0,
+                    "banner": "http://p0.qhimg.com/t01c3eb2357a3fac01d.jpg",
+                    "commentCount": 0,
+                    "cover": "http://p0.qhimg.com/t01c3eb2357a3fac01d.jpg",
+                    "duration": "01:12",
+                    "ext": {
+                        "a": "h",
+                        "c": "video",
+                        "category": "",
+                        "infotype": 0,
+                        "sub_category": "",
+                        "vid": 0,
+                        "vidEncode": "41V1vVD1o8v9"
+                    },
+                    "playCount": "31.79万次",
+                    "render": 2,
+                    "share": {
+                        "desc": "我正在360影视大全看《搞笑段子!恶搞小伙的套路深》，扫码下载有惊喜！",
+                        "imageurl": "http://p8.qhimg.com/t01e63a0dd77fa70d6f.jpg",
+                        "title": "搞笑段子!恶搞小伙的套路深",
+                        "weburl": "http://www.360kan.com/appdownload"
+                    },
+                    "stat_query": {
+                        "query1": "",
+                        "query2": "",
+                        "query3": "",
+                        "query4": "",
+                        "query5": "http://api.look.360.cn/srv/c?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2F41V1vVD1o8v9%3Ff%3Dhtml%26ucheck%3Df2248392f02717b01ac38ac0164b303e%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cctr%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C76%257C%25E6%2590%259E%25E7%25AC%2591%257C1901151982%257C1%257C15%257C1012386899365716236%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query6": "http://res.qhupdate.com/360reader/disp.gif?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2F41V1vVD1o8v9%3Ff%3Dhtml%26ucheck%3Df2248392f02717b01ac38ac0164b303e%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cctr%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C76%257C%25E6%2590%259E%25E7%25AC%2591%257C1901151982%257C1%257C15%257C1012386899365716236%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query7": ""
+                    },
+                    "title": "搞笑段子!恶搞小伙的套路深",
+                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=搞笑段子!恶搞小伙的套路深&url=http://v.sj.360.cn/video/detail/41V1vVD1o8v9&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fv.sj.360.cn%252Fvideo%252Fplay%253Fid%253D41V1vVD1o8v9%2526f%253Djson%2526ucheck%253Df2248392f02717b01ac38ac0164b303e%2526uid%253D522e6e58616cb92ec4fd63ef246cd7c9%2526version%253D128%2526sign%253Dysdq%2526resign%253Dysdq%2526is_recom%253D1%2526strategy%253Dlist%25257Cindex%25257Cctr%25257Cmixing_1010_author%25257C28bffe14ad7a671eee5cd0a49b7c6cb9%25257C%2525E6%25258E%2525A8%2525E8%25258D%252590%25257C76%25257C%2525E6%252590%25259E%2525E7%2525AC%252591%25257C1901151982%25257C1%25257C15%25257C1012386899365716236%2526channel_id%253D0%2526end%253Dmobile_android%2526is_new_recom%253D1%2526market%253D%2526news_sdk_version%253D%26mid%3D522e6e58616cb92ec4fd63ef246cd7c9%26m3u%3D0%26videoid%3D41V1vVD1o8v9%26ourl%3D%26act%3Dplay&adsupport=&AdDuration=15&picDuration=3",
+                    "url": "http://k.360kan.com/pc/detail/41V1vVD1o8v9?f=html&ucheck=f2248392f02717b01ac38ac0164b303e&uid=522e6e58616cb92ec4fd63ef246cd7c9&version=128&sign=ysdq&resign=ysdq&is_recom=1&strategy=list%7Cindex%7Cctr%7Cmixing_1010_author%7C28bffe14ad7a671eee5cd0a49b7c6cb9%7C%E6%8E%A8%E8%8D%90%7C76%7C%E6%90%9E%E7%AC%91%7C1901151982%7C1%7C15%7C1012386899365716236&channel_id=0&end=mobile_android&is_new_recom=1&market=&news_sdk_version=",
+                    "wemedia": {
+                        "fanscount": 126088,
+                        "headImg": "http://p8.qhimg.com/t0144f0974e68e4e6c4.jpg",
+                        "title": "这个好笑",
+                        "videocount": 9675
+                    },
+                    "xstm": "http://xstm.v.360.cn/video/xiaoshipin?url=http%3A%2F%2Fv.sj.360.cn%2Fvideo%2Fplay%3Fid%3D41V1vVD1o8v9%26f%3Djson%26ucheck%3Df2248392f02717b01ac38ac0164b303e%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cctr%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C76%257C%25E6%2590%259E%25E7%25AC%2591%257C1901151982%257C1%257C15%257C1012386899365716236%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&mid=522e6e58616cb92ec4fd63ef246cd7c9&m3u=0&videoid=41V1vVD1o8v9&ourl="
+                },
+                {
+                    "adsupport": 0,
+                    "banner": "http://p0.qhimg.com/t01d3ef1b4528ad2ca3.jpg",
+                    "commentCount": 0,
+                    "cover": "http://p0.qhimg.com/t01d3ef1b4528ad2ca3.jpg",
+                    "duration": "01:00",
+                    "ext": {
+                        "a": "h",
+                        "c": "video",
+                        "category": "",
+                        "infotype": 0,
+                        "sub_category": "",
+                        "vid": 0,
+                        "vidEncode": "n4d8noAXeGME"
+                    },
+                    "playCount": "31.79万次",
+                    "render": 2,
+                    "share": {
+                        "desc": "我正在360影视大全看《别人家属去世她嚎啕大哭，月入上万》，扫码下载有惊喜！",
+                        "imageurl": "http://p8.qhimg.com/t01e63a0dd77fa70d6f.jpg",
+                        "title": "别人家属去世她嚎啕大哭，月入上万",
+                        "weburl": "http://www.360kan.com/appdownload"
+                    },
+                    "stat_query": {
+                        "query1": "",
+                        "query2": "",
+                        "query3": "",
+                        "query4": "",
+                        "query5": "http://api.look.360.cn/srv/c?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2Fn4d8noAXeGME%3Ff%3Dhtml%26ucheck%3D0d5b6d4434d8bf8e1a340b6f337051e7%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Chot%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C679%257C%25E7%25A4%25BE%25E4%25BC%259A%257C1914666844%257C1%257C16%257C468437378009883474%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query6": "http://res.qhupdate.com/360reader/disp.gif?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2Fn4d8noAXeGME%3Ff%3Dhtml%26ucheck%3D0d5b6d4434d8bf8e1a340b6f337051e7%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Chot%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C679%257C%25E7%25A4%25BE%25E4%25BC%259A%257C1914666844%257C1%257C16%257C468437378009883474%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query7": ""
+                    },
+                    "title": "别人家属去世她嚎啕大哭，月入上万",
+                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=别人家属去世她嚎啕大哭，月入上万&url=http://v.sj.360.cn/video/detail/n4d8noAXeGME&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fv.sj.360.cn%252Fvideo%252Fplay%253Fid%253Dn4d8noAXeGME%2526f%253Djson%2526ucheck%253D0d5b6d4434d8bf8e1a340b6f337051e7%2526uid%253D522e6e58616cb92ec4fd63ef246cd7c9%2526version%253D128%2526sign%253Dysdq%2526resign%253Dysdq%2526is_recom%253D1%2526strategy%253Dlist%25257Cindex%25257Chot%25257Cmixing_1010_author%25257C28bffe14ad7a671eee5cd0a49b7c6cb9%25257C%2525E6%25258E%2525A8%2525E8%25258D%252590%25257C679%25257C%2525E7%2525A4%2525BE%2525E4%2525BC%25259A%25257C1914666844%25257C1%25257C16%25257C468437378009883474%2526channel_id%253D0%2526end%253Dmobile_android%2526is_new_recom%253D1%2526market%253D%2526news_sdk_version%253D%26mid%3D522e6e58616cb92ec4fd63ef246cd7c9%26m3u%3D0%26videoid%3Dn4d8noAXeGME%26ourl%3D%26act%3Dplay&adsupport=&AdDuration=15&picDuration=3",
+                    "url": "http://k.360kan.com/pc/detail/n4d8noAXeGME?f=html&ucheck=0d5b6d4434d8bf8e1a340b6f337051e7&uid=522e6e58616cb92ec4fd63ef246cd7c9&version=128&sign=ysdq&resign=ysdq&is_recom=1&strategy=list%7Cindex%7Chot%7Cmixing_1010_author%7C28bffe14ad7a671eee5cd0a49b7c6cb9%7C%E6%8E%A8%E8%8D%90%7C679%7C%E7%A4%BE%E4%BC%9A%7C1914666844%7C1%7C16%7C468437378009883474&channel_id=0&end=mobile_android&is_new_recom=1&market=&news_sdk_version=",
+                    "wemedia": {
+                        "fanscount": 126088,
+                        "headImg": "http://p0.qhimg.com/t01ececaa7d2248dc98.jpg",
+                        "title": "一手Video",
+                        "videocount": 9675
+                    },
+                    "xstm": "http://xstm.v.360.cn/video/xiaoshipin?url=http%3A%2F%2Fv.sj.360.cn%2Fvideo%2Fplay%3Fid%3Dn4d8noAXeGME%26f%3Djson%26ucheck%3D0d5b6d4434d8bf8e1a340b6f337051e7%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Chot%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C679%257C%25E7%25A4%25BE%25E4%25BC%259A%257C1914666844%257C1%257C16%257C468437378009883474%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&mid=522e6e58616cb92ec4fd63ef246cd7c9&m3u=0&videoid=n4d8noAXeGME&ourl="
+                },
+                {
+                    "adsupport": 0,
+                    "banner": "http://p0.qhimg.com/t01ffbeeb62f5043d73.jpg",
+                    "commentCount": 0,
+                    "cover": "http://p0.qhimg.com/t01ffbeeb62f5043d73.jpg",
+                    "duration": "03:27",
+                    "ext": {
+                        "a": "h",
+                        "c": "video",
+                        "category": "",
+                        "infotype": 0,
+                        "sub_category": "",
+                        "vid": 0,
+                        "vidEncode": "jVZ5DMWEJg3L"
+                    },
+                    "playCount": "31.79万次",
+                    "render": 2,
+                    "share": {
+                        "desc": "我正在360影视大全看《无意间偶遇自己的偶像刘德华，高兴的手舞足蹈》，扫码下载有惊喜！",
+                        "imageurl": "http://p8.qhimg.com/t01e63a0dd77fa70d6f.jpg",
+                        "title": "无意间偶遇自己的偶像刘德华，高兴的手舞足蹈",
+                        "weburl": "http://www.360kan.com/appdownload"
+                    },
+                    "stat_query": {
+                        "query1": "",
+                        "query2": "",
+                        "query3": "",
+                        "query4": "",
+                        "query5": "http://api.look.360.cn/srv/c?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FjVZ5DMWEJg3L%3Ff%3Dhtml%26ucheck%3D3361ce833955ef0afbb573706d5d3863%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cauthor%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C241%257C%25E5%25A8%25B1%25E4%25B9%2590%257C1914666949%257C1%257C%257C1873766%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query6": "http://res.qhupdate.com/360reader/disp.gif?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FjVZ5DMWEJg3L%3Ff%3Dhtml%26ucheck%3D3361ce833955ef0afbb573706d5d3863%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cauthor%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C241%257C%25E5%25A8%25B1%25E4%25B9%2590%257C1914666949%257C1%257C%257C1873766%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query7": ""
+                    },
+                    "title": "无意间偶遇自己的偶像刘德华，高兴的手舞足蹈",
+                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=无意间偶遇自己的偶像刘德华，高兴的手舞足蹈&url=http://v.sj.360.cn/video/detail/jVZ5DMWEJg3L&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fv.sj.360.cn%252Fvideo%252Fplay%253Fid%253DjVZ5DMWEJg3L%2526f%253Djson%2526ucheck%253D3361ce833955ef0afbb573706d5d3863%2526uid%253D522e6e58616cb92ec4fd63ef246cd7c9%2526version%253D128%2526sign%253Dysdq%2526resign%253Dysdq%2526is_recom%253D1%2526strategy%253Dlist%25257Cindex%25257Cauthor%25257Cmixing_1010_author%25257C28bffe14ad7a671eee5cd0a49b7c6cb9%25257C%2525E6%25258E%2525A8%2525E8%25258D%252590%25257C241%25257C%2525E5%2525A8%2525B1%2525E4%2525B9%252590%25257C1914666949%25257C1%25257C%25257C1873766%2526channel_id%253D0%2526end%253Dmobile_android%2526is_new_recom%253D1%2526market%253D%2526news_sdk_version%253D%26mid%3D522e6e58616cb92ec4fd63ef246cd7c9%26m3u%3D0%26videoid%3DjVZ5DMWEJg3L%26ourl%3D%26act%3Dplay&adsupport=&AdDuration=15&picDuration=3",
+                    "url": "http://k.360kan.com/pc/detail/jVZ5DMWEJg3L?f=html&ucheck=3361ce833955ef0afbb573706d5d3863&uid=522e6e58616cb92ec4fd63ef246cd7c9&version=128&sign=ysdq&resign=ysdq&is_recom=1&strategy=list%7Cindex%7Cauthor%7Cmixing_1010_author%7C28bffe14ad7a671eee5cd0a49b7c6cb9%7C%E6%8E%A8%E8%8D%90%7C241%7C%E5%A8%B1%E4%B9%90%7C1914666949%7C1%7C%7C1873766&channel_id=0&end=mobile_android&is_new_recom=1&market=&news_sdk_version=",
+                    "wemedia": {
+                        "fanscount": 126088,
+                        "headImg": "http://p0.qhimg.com/t0122ab20c6f2a7bc39.jpg",
+                        "title": "小艺说",
+                        "videocount": 9675
+                    },
+                    "xstm": "http://xstm.v.360.cn/video/xiaoshipin?url=http%3A%2F%2Fv.sj.360.cn%2Fvideo%2Fplay%3Fid%3DjVZ5DMWEJg3L%26f%3Djson%26ucheck%3D3361ce833955ef0afbb573706d5d3863%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cauthor%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C241%257C%25E5%25A8%25B1%25E4%25B9%2590%257C1914666949%257C1%257C%257C1873766%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&mid=522e6e58616cb92ec4fd63ef246cd7c9&m3u=0&videoid=jVZ5DMWEJg3L&ourl="
+                },
+                {
+                    "adsupport": 0,
+                    "banner": "http://p0.qhimg.com/t01fe48f245399a27ce.jpg",
+                    "commentCount": 0,
+                    "cover": "http://p0.qhimg.com/t01fe48f245399a27ce.jpg",
+                    "duration": "04:56",
+                    "ext": {
+                        "a": "h",
+                        "c": "video",
+                        "category": "",
+                        "infotype": 0,
+                        "sub_category": "",
+                        "vid": 0,
+                        "vidEncode": "PqQ869k4dm9X"
+                    },
+                    "playCount": "31.86万次",
+                    "render": 2,
+                    "share": {
+                        "desc": "我正在360影视大全看《越南美女 每天在河里用簸箕抄记下 就有鱼吃了太厉害了》，扫码下载有惊喜！",
+                        "imageurl": "http://p8.qhimg.com/t01e63a0dd77fa70d6f.jpg",
+                        "title": "越南美女 每天在河里用簸箕抄记下 就有鱼吃了太厉害了",
+                        "weburl": "http://www.360kan.com/appdownload"
+                    },
+                    "stat_query": {
+                        "query1": "",
+                        "query2": "",
+                        "query3": "",
+                        "query4": "",
+                        "query5": "http://api.look.360.cn/srv/c?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FPqQ869k4dm9X%3Ff%3Dhtml%26ucheck%3D57007bf7bb4ed76a6a0af5b55ef3cbc3%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cctr%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C1432%257C%25E7%25BE%258E%25E9%25A3%259F%257C1902103005%257C1%257C1%257C1067849994035584614%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query6": "http://res.qhupdate.com/360reader/disp.gif?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FPqQ869k4dm9X%3Ff%3Dhtml%26ucheck%3D57007bf7bb4ed76a6a0af5b55ef3cbc3%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cctr%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C1432%257C%25E7%25BE%258E%25E9%25A3%259F%257C1902103005%257C1%257C1%257C1067849994035584614%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query7": ""
+                    },
+                    "title": "越南美女 每天在河里用簸箕抄记下 就有鱼吃了太厉害了",
+                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=越南美女 每天在河里用簸箕抄记下 就有鱼吃了太厉害了&url=http://v.sj.360.cn/video/detail/PqQ869k4dm9X&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fv.sj.360.cn%252Fvideo%252Fplay%253Fid%253DPqQ869k4dm9X%2526f%253Djson%2526ucheck%253D57007bf7bb4ed76a6a0af5b55ef3cbc3%2526uid%253D522e6e58616cb92ec4fd63ef246cd7c9%2526version%253D128%2526sign%253Dysdq%2526resign%253Dysdq%2526is_recom%253D1%2526strategy%253Dlist%25257Cindex%25257Cctr%25257Cmixing_1010_author%25257C28bffe14ad7a671eee5cd0a49b7c6cb9%25257C%2525E6%25258E%2525A8%2525E8%25258D%252590%25257C1432%25257C%2525E7%2525BE%25258E%2525E9%2525A3%25259F%25257C1902103005%25257C1%25257C1%25257C1067849994035584614%2526channel_id%253D0%2526end%253Dmobile_android%2526is_new_recom%253D1%2526market%253D%2526news_sdk_version%253D%26mid%3D522e6e58616cb92ec4fd63ef246cd7c9%26m3u%3D0%26videoid%3DPqQ869k4dm9X%26ourl%3D%26act%3Dplay&adsupport=&AdDuration=15&picDuration=3",
+                    "url": "http://k.360kan.com/pc/detail/PqQ869k4dm9X?f=html&ucheck=57007bf7bb4ed76a6a0af5b55ef3cbc3&uid=522e6e58616cb92ec4fd63ef246cd7c9&version=128&sign=ysdq&resign=ysdq&is_recom=1&strategy=list%7Cindex%7Cctr%7Cmixing_1010_author%7C28bffe14ad7a671eee5cd0a49b7c6cb9%7C%E6%8E%A8%E8%8D%90%7C1432%7C%E7%BE%8E%E9%A3%9F%7C1902103005%7C1%7C1%7C1067849994035584614&channel_id=0&end=mobile_android&is_new_recom=1&market=&news_sdk_version=",
+                    "wemedia": {
+                        "fanscount": 126088,
+                        "headImg": "http://p0.qhimg.com/t0189efcea18ed1809b.jpg",
+                        "title": "太阳妈妈",
+                        "videocount": 9675
+                    },
+                    "xstm": "http://xstm.v.360.cn/video/xiaoshipin?url=http%3A%2F%2Fv.sj.360.cn%2Fvideo%2Fplay%3Fid%3DPqQ869k4dm9X%26f%3Djson%26ucheck%3D57007bf7bb4ed76a6a0af5b55ef3cbc3%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cctr%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C1432%257C%25E7%25BE%258E%25E9%25A3%259F%257C1902103005%257C1%257C1%257C1067849994035584614%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&mid=522e6e58616cb92ec4fd63ef246cd7c9&m3u=0&videoid=PqQ869k4dm9X&ourl="
+                },
+                {
+                    "adsupport": 0,
+                    "banner": "http://p0.qhimg.com/t0191d3bdab8a5b3b1f.jpg",
+                    "commentCount": 0,
+                    "cover": "http://p0.qhimg.com/t0191d3bdab8a5b3b1f.jpg",
+                    "duration": "08:36",
+                    "ext": {
+                        "a": "h",
+                        "c": "video",
+                        "category": "",
+                        "infotype": 0,
+                        "sub_category": "",
+                        "vid": 0,
+                        "vidEncode": "Avw9DA70XVp1"
+                    },
+                    "playCount": "31.82万次",
+                    "render": 2,
+                    "share": {
+                        "desc": "我正在360影视大全看《英雄联盟徐老师LOL徐老师来巡山英雄联盟解说:秀你一脸,光速回旋踢 令你措手不及》，扫码下载有惊喜！",
+                        "imageurl": "http://p8.qhimg.com/t01e63a0dd77fa70d6f.jpg",
+                        "title": "英雄联盟徐老师LOL徐老师来巡山英雄联盟解说:秀你一脸,光速回旋踢 令你措手不及",
+                        "weburl": "http://www.360kan.com/appdownload"
+                    },
+                    "stat_query": {
+                        "query1": "",
+                        "query2": "",
+                        "query3": "",
+                        "query4": "",
+                        "query5": "http://api.look.360.cn/srv/c?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FAvw9DA70XVp1%3Ff%3Dhtml%26ucheck%3Dbfe06a90f17ae4dd770dbef71360586d%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257CbfsProbe%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C2228%257C%25E6%25B8%25B8%25E6%2588%258F%257C1914676086%257C1%257C7%257C163599908272941659%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query6": "http://res.qhupdate.com/360reader/disp.gif?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FAvw9DA70XVp1%3Ff%3Dhtml%26ucheck%3Dbfe06a90f17ae4dd770dbef71360586d%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257CbfsProbe%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C2228%257C%25E6%25B8%25B8%25E6%2588%258F%257C1914676086%257C1%257C7%257C163599908272941659%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query7": ""
+                    },
+                    "title": "英雄联盟徐老师LOL徐老师来巡山英雄联盟解说:秀你一脸,光速回旋踢 令你措手不及",
+                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=英雄联盟徐老师LOL徐老师来巡山英雄联盟解说:秀你一脸,光速回旋踢 令你措手不及&url=http://v.sj.360.cn/video/detail/Avw9DA70XVp1&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fv.sj.360.cn%252Fvideo%252Fplay%253Fid%253DAvw9DA70XVp1%2526f%253Djson%2526ucheck%253Dbfe06a90f17ae4dd770dbef71360586d%2526uid%253D522e6e58616cb92ec4fd63ef246cd7c9%2526version%253D128%2526sign%253Dysdq%2526resign%253Dysdq%2526is_recom%253D1%2526strategy%253Dlist%25257Cindex%25257CbfsProbe%25257Cmixing_1010_author%25257C28bffe14ad7a671eee5cd0a49b7c6cb9%25257C%2525E6%25258E%2525A8%2525E8%25258D%252590%25257C2228%25257C%2525E6%2525B8%2525B8%2525E6%252588%25258F%25257C1914676086%25257C1%25257C7%25257C163599908272941659%2526channel_id%253D0%2526end%253Dmobile_android%2526is_new_recom%253D1%2526market%253D%2526news_sdk_version%253D%26mid%3D522e6e58616cb92ec4fd63ef246cd7c9%26m3u%3D0%26videoid%3DAvw9DA70XVp1%26ourl%3D%26act%3Dplay&adsupport=&AdDuration=15&picDuration=3",
+                    "url": "http://k.360kan.com/pc/detail/Avw9DA70XVp1?f=html&ucheck=bfe06a90f17ae4dd770dbef71360586d&uid=522e6e58616cb92ec4fd63ef246cd7c9&version=128&sign=ysdq&resign=ysdq&is_recom=1&strategy=list%7Cindex%7CbfsProbe%7Cmixing_1010_author%7C28bffe14ad7a671eee5cd0a49b7c6cb9%7C%E6%8E%A8%E8%8D%90%7C2228%7C%E6%B8%B8%E6%88%8F%7C1914676086%7C1%7C7%7C163599908272941659&channel_id=0&end=mobile_android&is_new_recom=1&market=&news_sdk_version=",
+                    "wemedia": {
+                        "fanscount": 126088,
+                        "headImg": "http://p0.qhimg.com/t010f3ad00b58e14202.jpg",
+                        "title": "英雄助手",
+                        "videocount": 9675
+                    },
+                    "xstm": "http://xstm.v.360.cn/video/xiaoshipin?url=http%3A%2F%2Fv.sj.360.cn%2Fvideo%2Fplay%3Fid%3DAvw9DA70XVp1%26f%3Djson%26ucheck%3Dbfe06a90f17ae4dd770dbef71360586d%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257CbfsProbe%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C2228%257C%25E6%25B8%25B8%25E6%2588%258F%257C1914676086%257C1%257C7%257C163599908272941659%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&mid=522e6e58616cb92ec4fd63ef246cd7c9&m3u=0&videoid=Avw9DA70XVp1&ourl="
+                },
+                {
+                    "adsupport": 0,
+                    "banner": "http://p0.qhimg.com/t01dfea026e0a976ee1.jpg",
+                    "commentCount": 0,
+                    "cover": "http://p0.qhimg.com/t01dfea026e0a976ee1.jpg",
+                    "duration": "04:53",
+                    "ext": {
+                        "a": "h",
+                        "c": "video",
+                        "category": "",
+                        "infotype": 0,
+                        "sub_category": "",
+                        "vid": 0,
+                        "vidEncode": "2BZ6v6YMdjBZ"
+                    },
+                    "playCount": "33.29万次",
+                    "render": 2,
+                    "share": {
+                        "desc": "我正在360影视大全看《火影忍者 10.10 漩涡鸣人 生日贺! 火影世界中忍者的真实收入水平竟然是这样?》，扫码下载有惊喜！",
+                        "imageurl": "http://p8.qhimg.com/t01e63a0dd77fa70d6f.jpg",
+                        "title": "火影忍者 10.10 漩涡鸣人 生日贺! 火影世界中忍者的真实收入水平竟然是这样?",
+                        "weburl": "http://www.360kan.com/appdownload"
+                    },
+                    "stat_query": {
+                        "query1": "",
+                        "query2": "",
+                        "query3": "",
+                        "query4": "",
+                        "query5": "http://api.look.360.cn/srv/c?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2F2BZ6v6YMdjBZ%3Ff%3Dhtml%26ucheck%3Dd4e1eabee82961ed98ca7d3494246871%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257CdfsProbe%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C1246%257C%25E5%258A%25A8%25E6%25BC%25AB%257C1902793361%257C1%257C20%257C345832623222612799%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query6": "http://res.qhupdate.com/360reader/disp.gif?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2F2BZ6v6YMdjBZ%3Ff%3Dhtml%26ucheck%3Dd4e1eabee82961ed98ca7d3494246871%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257CdfsProbe%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C1246%257C%25E5%258A%25A8%25E6%25BC%25AB%257C1902793361%257C1%257C20%257C345832623222612799%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query7": ""
+                    },
+                    "title": "火影忍者 10.10 漩涡鸣人 生日贺! 火影世界中忍者的真实收入水平竟然是这样?",
+                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=火影忍者 10.10 漩涡鸣人 生日贺! 火影世界中忍者的真实收入水平竟然是这样?&url=http://v.sj.360.cn/video/detail/2BZ6v6YMdjBZ&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fv.sj.360.cn%252Fvideo%252Fplay%253Fid%253D2BZ6v6YMdjBZ%2526f%253Djson%2526ucheck%253Dd4e1eabee82961ed98ca7d3494246871%2526uid%253D522e6e58616cb92ec4fd63ef246cd7c9%2526version%253D128%2526sign%253Dysdq%2526resign%253Dysdq%2526is_recom%253D1%2526strategy%253Dlist%25257Cindex%25257CdfsProbe%25257Cmixing_1010_author%25257C28bffe14ad7a671eee5cd0a49b7c6cb9%25257C%2525E6%25258E%2525A8%2525E8%25258D%252590%25257C1246%25257C%2525E5%25258A%2525A8%2525E6%2525BC%2525AB%25257C1902793361%25257C1%25257C20%25257C345832623222612799%2526channel_id%253D0%2526end%253Dmobile_android%2526is_new_recom%253D1%2526market%253D%2526news_sdk_version%253D%26mid%3D522e6e58616cb92ec4fd63ef246cd7c9%26m3u%3D0%26videoid%3D2BZ6v6YMdjBZ%26ourl%3D%26act%3Dplay&adsupport=&AdDuration=15&picDuration=3",
+                    "url": "http://k.360kan.com/pc/detail/2BZ6v6YMdjBZ?f=html&ucheck=d4e1eabee82961ed98ca7d3494246871&uid=522e6e58616cb92ec4fd63ef246cd7c9&version=128&sign=ysdq&resign=ysdq&is_recom=1&strategy=list%7Cindex%7CdfsProbe%7Cmixing_1010_author%7C28bffe14ad7a671eee5cd0a49b7c6cb9%7C%E6%8E%A8%E8%8D%90%7C1246%7C%E5%8A%A8%E6%BC%AB%7C1902793361%7C1%7C20%7C345832623222612799&channel_id=0&end=mobile_android&is_new_recom=1&market=&news_sdk_version=",
+                    "wemedia": {
+                        "fanscount": 126088,
+                        "headImg": "http://p0.qhimg.com/t010ce9b1c0b997b655.jpg",
+                        "title": "漫友基地",
+                        "videocount": 9675
+                    },
+                    "xstm": "http://xstm.v.360.cn/video/xiaoshipin?url=http%3A%2F%2Fv.sj.360.cn%2Fvideo%2Fplay%3Fid%3D2BZ6v6YMdjBZ%26f%3Djson%26ucheck%3Dd4e1eabee82961ed98ca7d3494246871%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257CdfsProbe%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C1246%257C%25E5%258A%25A8%25E6%25BC%25AB%257C1902793361%257C1%257C20%257C345832623222612799%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&mid=522e6e58616cb92ec4fd63ef246cd7c9&m3u=0&videoid=2BZ6v6YMdjBZ&ourl="
+                },
+                {
+                    "adsupport": 0,
+                    "banner": "http://p0.qhimg.com/t01b6f01867eb8d2b38.jpg",
+                    "commentCount": 0,
+                    "cover": "http://p0.qhimg.com/t01b6f01867eb8d2b38.jpg",
+                    "duration": "02:23",
+                    "ext": {
+                        "a": "h",
+                        "c": "video",
+                        "category": "",
+                        "infotype": 0,
+                        "sub_category": "",
+                        "vid": 0,
+                        "vidEncode": "VBvg6jzMogW1"
+                    },
+                    "playCount": "33.32万次",
+                    "render": 2,
+                    "share": {
+                        "desc": "我正在360影视大全看《降央卓玛演唱歌曲《天边》，好听》，扫码下载有惊喜！",
+                        "imageurl": "http://p8.qhimg.com/t01e63a0dd77fa70d6f.jpg",
+                        "title": "降央卓玛演唱歌曲《天边》，好听",
+                        "weburl": "http://www.360kan.com/appdownload"
+                    },
+                    "stat_query": {
+                        "query1": "",
+                        "query2": "",
+                        "query3": "",
+                        "query4": "",
+                        "query5": "http://api.look.360.cn/srv/c?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FVBvg6jzMogW1%3Ff%3Dhtml%26ucheck%3D9d47ffe75cfedffce219606239a87ad2%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cctr%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C7323%257C%25E9%259F%25B3%25E4%25B9%2590%257C1914733722%257C1%257C%257C2603589%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query6": "http://res.qhupdate.com/360reader/disp.gif?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FVBvg6jzMogW1%3Ff%3Dhtml%26ucheck%3D9d47ffe75cfedffce219606239a87ad2%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cctr%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C7323%257C%25E9%259F%25B3%25E4%25B9%2590%257C1914733722%257C1%257C%257C2603589%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query7": ""
+                    },
+                    "title": "降央卓玛演唱歌曲《天边》，好听",
+                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=降央卓玛演唱歌曲《天边》，好听&url=http://v.sj.360.cn/video/detail/VBvg6jzMogW1&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fv.sj.360.cn%252Fvideo%252Fplay%253Fid%253DVBvg6jzMogW1%2526f%253Djson%2526ucheck%253D9d47ffe75cfedffce219606239a87ad2%2526uid%253D522e6e58616cb92ec4fd63ef246cd7c9%2526version%253D128%2526sign%253Dysdq%2526resign%253Dysdq%2526is_recom%253D1%2526strategy%253Dlist%25257Cindex%25257Cctr%25257Cmixing_1010_author%25257C28bffe14ad7a671eee5cd0a49b7c6cb9%25257C%2525E6%25258E%2525A8%2525E8%25258D%252590%25257C7323%25257C%2525E9%25259F%2525B3%2525E4%2525B9%252590%25257C1914733722%25257C1%25257C%25257C2603589%2526channel_id%253D0%2526end%253Dmobile_android%2526is_new_recom%253D1%2526market%253D%2526news_sdk_version%253D%26mid%3D522e6e58616cb92ec4fd63ef246cd7c9%26m3u%3D0%26videoid%3DVBvg6jzMogW1%26ourl%3D%26act%3Dplay&adsupport=&AdDuration=15&picDuration=3",
+                    "url": "http://k.360kan.com/pc/detail/VBvg6jzMogW1?f=html&ucheck=9d47ffe75cfedffce219606239a87ad2&uid=522e6e58616cb92ec4fd63ef246cd7c9&version=128&sign=ysdq&resign=ysdq&is_recom=1&strategy=list%7Cindex%7Cctr%7Cmixing_1010_author%7C28bffe14ad7a671eee5cd0a49b7c6cb9%7C%E6%8E%A8%E8%8D%90%7C7323%7C%E9%9F%B3%E4%B9%90%7C1914733722%7C1%7C%7C2603589&channel_id=0&end=mobile_android&is_new_recom=1&market=&news_sdk_version=",
+                    "wemedia": {
+                        "fanscount": 126088,
+                        "headImg": "http://p1.qhimg.com/t012232b2ccdb7c4496.jpg",
+                        "title": "哎唷我去",
+                        "videocount": 9675
+                    },
+                    "xstm": "http://xstm.v.360.cn/video/xiaoshipin?url=http%3A%2F%2Fv.sj.360.cn%2Fvideo%2Fplay%3Fid%3DVBvg6jzMogW1%26f%3Djson%26ucheck%3D9d47ffe75cfedffce219606239a87ad2%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cctr%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C7323%257C%25E9%259F%25B3%25E4%25B9%2590%257C1914733722%257C1%257C%257C2603589%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&mid=522e6e58616cb92ec4fd63ef246cd7c9&m3u=0&videoid=VBvg6jzMogW1&ourl="
+                },
+                {
+                    "adsupport": 0,
+                    "banner": "http://p0.qhimg.com/t01da3dc37f8ea17849.jpg",
+                    "commentCount": 0,
+                    "cover": "http://p0.qhimg.com/t01da3dc37f8ea17849.jpg",
+                    "duration": "02:39",
+                    "ext": {
+                        "a": "h",
+                        "c": "video",
+                        "category": "",
+                        "infotype": 0,
+                        "sub_category": "",
+                        "vid": 0,
+                        "vidEncode": "YoRez9QyG52K"
+                    },
+                    "playCount": "31.98万次",
+                    "render": 2,
+                    "share": {
+                        "desc": "我正在360影视大全看《云朵有看法：重庆妹子活力啦啦操，“放飞你我的啦啦操梦想”！》，扫码下载有惊喜！",
+                        "imageurl": "http://p8.qhimg.com/t01e63a0dd77fa70d6f.jpg",
+                        "title": "云朵有看法：重庆妹子活力啦啦操，“放飞你我的啦啦操梦想”！",
+                        "weburl": "http://www.360kan.com/appdownload"
+                    },
+                    "stat_query": {
+                        "query1": "",
+                        "query2": "",
+                        "query3": "",
+                        "query4": "",
+                        "query5": "http://api.look.360.cn/srv/c?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FYoRez9QyG52K%3Ff%3Dhtml%26ucheck%3Dc691b2b5638c699260f379d066bf135c%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cauthor%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C300%257C%25E6%2590%259E%25E7%25AC%2591%257C1914730509%257C1%257C1%257C4419924%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query6": "http://res.qhupdate.com/360reader/disp.gif?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FYoRez9QyG52K%3Ff%3Dhtml%26ucheck%3Dc691b2b5638c699260f379d066bf135c%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cauthor%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C300%257C%25E6%2590%259E%25E7%25AC%2591%257C1914730509%257C1%257C1%257C4419924%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query7": ""
+                    },
+                    "title": "云朵有看法：重庆妹子活力啦啦操，“放飞你我的啦啦操梦想”！",
+                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=云朵有看法：重庆妹子活力啦啦操，“放飞你我的啦啦操梦想”！&url=http://v.sj.360.cn/video/detail/YoRez9QyG52K&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fv.sj.360.cn%252Fvideo%252Fplay%253Fid%253DYoRez9QyG52K%2526f%253Djson%2526ucheck%253Dc691b2b5638c699260f379d066bf135c%2526uid%253D522e6e58616cb92ec4fd63ef246cd7c9%2526version%253D128%2526sign%253Dysdq%2526resign%253Dysdq%2526is_recom%253D1%2526strategy%253Dlist%25257Cindex%25257Cauthor%25257Cmixing_1010_author%25257C28bffe14ad7a671eee5cd0a49b7c6cb9%25257C%2525E6%25258E%2525A8%2525E8%25258D%252590%25257C300%25257C%2525E6%252590%25259E%2525E7%2525AC%252591%25257C1914730509%25257C1%25257C1%25257C4419924%2526channel_id%253D0%2526end%253Dmobile_android%2526is_new_recom%253D1%2526market%253D%2526news_sdk_version%253D%26mid%3D522e6e58616cb92ec4fd63ef246cd7c9%26m3u%3D0%26videoid%3DYoRez9QyG52K%26ourl%3D%26act%3Dplay&adsupport=&AdDuration=15&picDuration=3",
+                    "url": "http://k.360kan.com/pc/detail/YoRez9QyG52K?f=html&ucheck=c691b2b5638c699260f379d066bf135c&uid=522e6e58616cb92ec4fd63ef246cd7c9&version=128&sign=ysdq&resign=ysdq&is_recom=1&strategy=list%7Cindex%7Cauthor%7Cmixing_1010_author%7C28bffe14ad7a671eee5cd0a49b7c6cb9%7C%E6%8E%A8%E8%8D%90%7C300%7C%E6%90%9E%E7%AC%91%7C1914730509%7C1%7C1%7C4419924&channel_id=0&end=mobile_android&is_new_recom=1&market=&news_sdk_version=",
+                    "wemedia": {
+                        "fanscount": 126088,
+                        "headImg": "http://p1.qhimg.com/t01cfeaa0bcfa95168c.jpg",
+                        "title": "阿辉娱乐",
+                        "videocount": 9675
+                    },
+                    "xstm": "http://xstm.v.360.cn/video/xiaoshipin?url=http%3A%2F%2Fv.sj.360.cn%2Fvideo%2Fplay%3Fid%3DYoRez9QyG52K%26f%3Djson%26ucheck%3Dc691b2b5638c699260f379d066bf135c%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cauthor%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C300%257C%25E6%2590%259E%25E7%25AC%2591%257C1914730509%257C1%257C1%257C4419924%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&mid=522e6e58616cb92ec4fd63ef246cd7c9&m3u=0&videoid=YoRez9QyG52K&ourl="
+                },
+                {
+                    "adsupport": 0,
+                    "banner": "http://p2.qhimg.com/t01a2be476657cd6d9a.jpg",
+                    "commentCount": 0,
+                    "cover": "http://p2.qhimg.com/t01a2be476657cd6d9a.jpg",
+                    "duration": "03:12",
+                    "ext": {
+                        "a": "h",
+                        "c": "video",
+                        "category": "",
+                        "infotype": 0,
+                        "sub_category": "",
+                        "vid": 0,
+                        "vidEncode": "VEbR9A9ZlRjJ"
+                    },
+                    "playCount": "31.82万次",
+                    "render": 2,
+                    "share": {
+                        "desc": "我正在360影视大全看《乌兰图雅和云飞情歌对唱，唱的太美》，扫码下载有惊喜！",
+                        "imageurl": "http://p8.qhimg.com/t01e63a0dd77fa70d6f.jpg",
+                        "title": "乌兰图雅和云飞情歌对唱，唱的太美",
+                        "weburl": "http://www.360kan.com/appdownload"
+                    },
+                    "stat_query": {
+                        "query1": "",
+                        "query2": "",
+                        "query3": "",
+                        "query4": "",
+                        "query5": "http://api.look.360.cn/srv/c?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FVEbR9A9ZlRjJ%3Ff%3Dhtml%26ucheck%3Dd97050f283895d03e50d317301b54097%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257CbfsProbe%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C2889%257C%25E9%259F%25B3%25E4%25B9%2590%257C1914733762%257C1%257C5%257C2383728%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query6": "http://res.qhupdate.com/360reader/disp.gif?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FVEbR9A9ZlRjJ%3Ff%3Dhtml%26ucheck%3Dd97050f283895d03e50d317301b54097%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257CbfsProbe%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C2889%257C%25E9%259F%25B3%25E4%25B9%2590%257C1914733762%257C1%257C5%257C2383728%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query7": ""
+                    },
+                    "title": "乌兰图雅和云飞情歌对唱，唱的太美",
+                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=乌兰图雅和云飞情歌对唱，唱的太美&url=http://v.sj.360.cn/video/detail/VEbR9A9ZlRjJ&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fv.sj.360.cn%252Fvideo%252Fplay%253Fid%253DVEbR9A9ZlRjJ%2526f%253Djson%2526ucheck%253Dd97050f283895d03e50d317301b54097%2526uid%253D522e6e58616cb92ec4fd63ef246cd7c9%2526version%253D128%2526sign%253Dysdq%2526resign%253Dysdq%2526is_recom%253D1%2526strategy%253Dlist%25257Cindex%25257CbfsProbe%25257Cmixing_1010_author%25257C28bffe14ad7a671eee5cd0a49b7c6cb9%25257C%2525E6%25258E%2525A8%2525E8%25258D%252590%25257C2889%25257C%2525E9%25259F%2525B3%2525E4%2525B9%252590%25257C1914733762%25257C1%25257C5%25257C2383728%2526channel_id%253D0%2526end%253Dmobile_android%2526is_new_recom%253D1%2526market%253D%2526news_sdk_version%253D%26mid%3D522e6e58616cb92ec4fd63ef246cd7c9%26m3u%3D0%26videoid%3DVEbR9A9ZlRjJ%26ourl%3D%26act%3Dplay&adsupport=&AdDuration=15&picDuration=3",
+                    "url": "http://k.360kan.com/pc/detail/VEbR9A9ZlRjJ?f=html&ucheck=d97050f283895d03e50d317301b54097&uid=522e6e58616cb92ec4fd63ef246cd7c9&version=128&sign=ysdq&resign=ysdq&is_recom=1&strategy=list%7Cindex%7CbfsProbe%7Cmixing_1010_author%7C28bffe14ad7a671eee5cd0a49b7c6cb9%7C%E6%8E%A8%E8%8D%90%7C2889%7C%E9%9F%B3%E4%B9%90%7C1914733762%7C1%7C5%7C2383728&channel_id=0&end=mobile_android&is_new_recom=1&market=&news_sdk_version=",
+                    "wemedia": {
+                        "fanscount": 126088,
+                        "headImg": "http://p4.qhimg.com/t01e9add725a8821821.jpg",
+                        "title": "play我最大",
+                        "videocount": 9675
+                    },
+                    "xstm": "http://xstm.v.360.cn/video/xiaoshipin?url=http%3A%2F%2Fv.sj.360.cn%2Fvideo%2Fplay%3Fid%3DVEbR9A9ZlRjJ%26f%3Djson%26ucheck%3Dd97050f283895d03e50d317301b54097%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257CbfsProbe%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C2889%257C%25E9%259F%25B3%25E4%25B9%2590%257C1914733762%257C1%257C5%257C2383728%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&mid=522e6e58616cb92ec4fd63ef246cd7c9&m3u=0&videoid=VEbR9A9ZlRjJ&ourl="
+                },
+                {
+                    "adsupport": 0,
+                    "banner": "http://p0.qhimg.com/t010290203be2a3ad6a.jpg",
+                    "commentCount": 0,
+                    "cover": "http://p0.qhimg.com/t010290203be2a3ad6a.jpg",
+                    "duration": "03:07",
+                    "ext": {
+                        "a": "h",
+                        "c": "video",
+                        "category": "",
+                        "infotype": 0,
+                        "sub_category": "",
+                        "vid": 0,
+                        "vidEncode": "QPYB3WW1PZmm"
+                    },
+                    "playCount": "32.03万次",
+                    "render": 2,
+                    "share": {
+                        "desc": "我正在360影视大全看《海贼王第十人已确定,百分之九十九是他!》，扫码下载有惊喜！",
+                        "imageurl": "http://p8.qhimg.com/t01e63a0dd77fa70d6f.jpg",
+                        "title": "海贼王第十人已确定,百分之九十九是他!",
+                        "weburl": "http://www.360kan.com/appdownload"
+                    },
+                    "stat_query": {
+                        "query1": "",
+                        "query2": "",
+                        "query3": "",
+                        "query4": "",
+                        "query5": "http://api.look.360.cn/srv/c?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FQPYB3WW1PZmm%3Ff%3Dhtml%26ucheck%3D70cff6cf6f0c099bf57049e499b382b7%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cauthor%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C1203%257C%25E5%258A%25A8%25E6%25BC%25AB%257C1901121156%257C1%257C11%257C952364274488976329%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query6": "http://res.qhupdate.com/360reader/disp.gif?uid=522e6e58616cb92ec4fd63ef246cd7c9&url=http%3A%2F%2Fk.360kan.com%2Fpc%2Fdetail%2FQPYB3WW1PZmm%3Ff%3Dhtml%26ucheck%3D70cff6cf6f0c099bf57049e499b382b7%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cauthor%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C1203%257C%25E5%258A%25A8%25E6%25BC%25AB%257C1901121156%257C1%257C11%257C952364274488976329%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&sign=ysdq&channel=youlike&a=h&c=video&h=&source=",
+                        "query7": ""
+                    },
+                    "title": "海贼王第十人已确定,百分之九十九是他!",
+                    "uri": "qhvideo://vapp.360.cn/shortdetail?title=海贼王第十人已确定,百分之九十九是他!&url=http://v.sj.360.cn/video/detail/QPYB3WW1PZmm&website=xiaoshipin&xstm=http%3A%2F%2Fxstm.v.360.cn%2Fvideo%2Fxiaoshipin%3Furl%3Dhttp%253A%252F%252Fv.sj.360.cn%252Fvideo%252Fplay%253Fid%253DQPYB3WW1PZmm%2526f%253Djson%2526ucheck%253D70cff6cf6f0c099bf57049e499b382b7%2526uid%253D522e6e58616cb92ec4fd63ef246cd7c9%2526version%253D128%2526sign%253Dysdq%2526resign%253Dysdq%2526is_recom%253D1%2526strategy%253Dlist%25257Cindex%25257Cauthor%25257Cmixing_1010_author%25257C28bffe14ad7a671eee5cd0a49b7c6cb9%25257C%2525E6%25258E%2525A8%2525E8%25258D%252590%25257C1203%25257C%2525E5%25258A%2525A8%2525E6%2525BC%2525AB%25257C1901121156%25257C1%25257C11%25257C952364274488976329%2526channel_id%253D0%2526end%253Dmobile_android%2526is_new_recom%253D1%2526market%253D%2526news_sdk_version%253D%26mid%3D522e6e58616cb92ec4fd63ef246cd7c9%26m3u%3D0%26videoid%3DQPYB3WW1PZmm%26ourl%3D%26act%3Dplay&adsupport=&AdDuration=15&picDuration=3",
+                    "url": "http://k.360kan.com/pc/detail/QPYB3WW1PZmm?f=html&ucheck=70cff6cf6f0c099bf57049e499b382b7&uid=522e6e58616cb92ec4fd63ef246cd7c9&version=128&sign=ysdq&resign=ysdq&is_recom=1&strategy=list%7Cindex%7Cauthor%7Cmixing_1010_author%7C28bffe14ad7a671eee5cd0a49b7c6cb9%7C%E6%8E%A8%E8%8D%90%7C1203%7C%E5%8A%A8%E6%BC%AB%7C1901121156%7C1%7C11%7C952364274488976329&channel_id=0&end=mobile_android&is_new_recom=1&market=&news_sdk_version=",
+                    "wemedia": {
+                        "fanscount": 126088,
+                        "headImg": "http://p2.qhimg.com/t018eccc7f851ca138f.png",
+                        "title": "网络精选百度",
+                        "videocount": 9675
+                    },
+                    "xstm": "http://xstm.v.360.cn/video/xiaoshipin?url=http%3A%2F%2Fv.sj.360.cn%2Fvideo%2Fplay%3Fid%3DQPYB3WW1PZmm%26f%3Djson%26ucheck%3D70cff6cf6f0c099bf57049e499b382b7%26uid%3D522e6e58616cb92ec4fd63ef246cd7c9%26version%3D128%26sign%3Dysdq%26resign%3Dysdq%26is_recom%3D1%26strategy%3Dlist%257Cindex%257Cauthor%257Cmixing_1010_author%257C28bffe14ad7a671eee5cd0a49b7c6cb9%257C%25E6%258E%25A8%25E8%258D%2590%257C1203%257C%25E5%258A%25A8%25E6%25BC%25AB%257C1901121156%257C1%257C11%257C952364274488976329%26channel_id%3D0%26end%3Dmobile_android%26is_new_recom%3D1%26market%3D%26news_sdk_version%3D&mid=522e6e58616cb92ec4fd63ef246cd7c9&m3u=0&videoid=QPYB3WW1PZmm&ourl="
+                }
+            ],
+            "start": 40
+        },
+        "error": 0
+    }
+}

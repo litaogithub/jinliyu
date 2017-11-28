@@ -1,0 +1,1232 @@
+﻿{
+    "data": {
+        "data": {
+            "blocks": [
+                {
+                    "bgCover": "http://p9.qhimg.com/t0126f3184916c273d9.png",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t0144ebddece41c6869.jpg",
+                                    "dynamicImg": "http://p0.qhimg.com/t01d195beadf4dc7f9c.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至191集",
+                                        "type": "2"
+                                    },
+                                    "title": "猫和老鼠",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=O04pacfYYo3zDz",
+                                    "word": "听说汤姆不抓老鼠了？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t014f7269ceb8acead7.jpg",
+                                    "dynamicImg": "http://p1.qhimg.com/t01c14b66fba261cc40.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至352集",
+                                        "type": "2"
+                                    },
+                                    "title": "新大头儿子和小头爸爸4",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=P04obJ7kMoO3DD",
+                                    "word": "大手牵小手快乐一家人"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t014595db06b1e9b0be.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全208集",
+                                        "type": "2"
+                                    },
+                                    "title": "爆笑虫子全集",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PU8pbJ7jMo30DT",
+                                    "word": "超治愈爆笑兄弟"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t01e5a6f4a072edfd45.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至156集",
+                                        "type": "2"
+                                    },
+                                    "title": "企鹅家族第六季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OUblbZ7jM4a3DD",
+                                    "word": "呆萌企鹅温馨家族"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01c26cad16575d493c.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至89集",
+                                        "type": "2"
+                                    },
+                                    "title": "嗡嗡蜂巴帝",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PEPna57kMoK0Cz",
+                                    "word": "边看边学的动画片"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t01fc8c143bd1fef705.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全78集",
+                                        "type": "2"
+                                    },
+                                    "title": "疯狂的兔子第2季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PkHoap7jNYayDj",
+                                    "word": "疯狂兔子入侵"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "热门推荐",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "更多欢乐go！",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=101&title=少儿动画",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "http://p0.qhimg.com/t01126fb0741bfcb42a.png",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t018312b413bb69b5fe.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全26集",
+                                        "type": "2"
+                                    },
+                                    "title": "汪汪队立大功 第一季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=O0fkaZ7jMYz0Dj",
+                                    "word": "小超人带你组建狗狗巡逻队"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t01266281a00757718e.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至125集",
+                                        "type": "2"
+                                    },
+                                    "title": "海底小纵队",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=P0Ppb57jLICuDD",
+                                    "word": "海洋里面也能战斗？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t010271cbf8ab555ee2.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全52集",
+                                        "type": "2"
+                                    },
+                                    "title": "果宝特攻",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PU4kbp7jL47zCT",
+                                    "word": "谁说特工都是男孩子？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01f9f17021bd8d01b6.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全52集",
+                                        "type": "2"
+                                    },
+                                    "title": "机器人阿波罗",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkTobs7kNI33CT",
+                                    "word": "这是机器人大时代~"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t0180934a62889fc16b.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全29集",
+                                        "type": "2"
+                                    },
+                                    "title": "魔晶猎人第三季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=O0XkbJ7kLYGwET",
+                                    "word": "龙耀之战 王者归来！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t01674289eec35b0262.jpg",
+                                    "dynamicImg": "http://p0.qhimg.com/t012f3a0a35c2fd332c.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全104集",
+                                        "type": "2"
+                                    },
+                                    "title": "电击小子",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=QEflbZ7jMIG0DT",
+                                    "word": "嗨~未来世界的小伙伴"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "小超人专区",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "战胜更多坏蛋吧！",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=417&title=7-12岁",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "http://p8.qhimg.com/t01dfe8c41d7c96f563.png",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t015fcaf0510d793945.jpg",
+                                    "dynamicImg": "http://p2.qhimg.com/t013ca8087b045c4663.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全52集",
+                                        "type": "2"
+                                    },
+                                    "title": "小花仙",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PUDras7mLIW0Dj",
+                                    "word": "少女的魔法"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t012124c5aa45dc06fb.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全30集",
+                                        "type": "2"
+                                    },
+                                    "title": "舞法天女朵法拉",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkPrcZ7kLIKyCj",
+                                    "word": "美少女变身保卫和平"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t0150fcdc165b784a35.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至37集",
+                                        "type": "2"
+                                    },
+                                    "title": "芭比之梦想豪宅第七季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PkflaZ7jM4O2Cj",
+                                    "word": "属于每个女孩的甜蜜公主梦"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t01bf7ebb7666ed9919.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全14集",
+                                        "type": "2"
+                                    },
+                                    "title": "芭比之梦想豪宅",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkLtasOkMIW3ET",
+                                    "word": "女孩甜蜜公主梦"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t01822db79a1491d02b.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全26集",
+                                        "type": "2"
+                                    },
+                                    "title": "星学院1魔法礼服",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PULobJ7jMoGwDz",
+                                    "word": "充满灵力的超学院！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t010e49327f5f73da4e.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至18集",
+                                        "type": "2"
+                                    },
+                                    "title": "精灵梦叶罗丽 第五季",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkXoaZ7kMYavED",
+                                    "word": "魔法仙境战斗升级"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "小公主专区",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "开启魔法之旅",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=416&title=4-6岁",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01c4eee46780ababcb.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "3.7分",
+                                        "type": "1"
+                                    },
+                                    "title": "赛尔号大电影5",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=hqXlZRH1RnP1UR",
+                                    "word": "雷神崛起！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t0119b0523d2768bd0c.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至4集",
+                                        "type": "2"
+                                    },
+                                    "title": "芭比之仙境奇遇记",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=QkbncJ7kLozyCD",
+                                    "word": "芭比梦想城"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t0183e0598e02da6491.gif",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至8集",
+                                        "type": "2"
+                                    },
+                                    "title": "小羊肖恩大电影",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkXoa57jMIKwED",
+                                    "word": "小羊变身大英雄"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t01f98815eabcc5708d.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至8集",
+                                        "type": "2"
+                                    },
+                                    "title": "新大头儿子之秘密计划",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PkHlcZ7jL4OxDz",
+                                    "word": "秘密行动到底是啥？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p7.qhimg.com/t01c69f6c15d33e5852.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全2集",
+                                        "type": "2"
+                                    },
+                                    "title": "巴啦啦小魔仙 偶像学院 ",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkTlcp7jMY31DT",
+                                    "word": "偶像学院最新真人版"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t018663f7c5e55897f3.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全1集",
+                                        "type": "2"
+                                    },
+                                    "title": "奥特曼大电影",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PkToasOkMY7uDz",
+                                    "word": "贝利亚银河帝国 "
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "动画大电影",
+                    "blockType": "V",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "更多奇幻历险",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=27&title=动画大电影",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "http://p9.qhimg.com/t014f0fa719ac7f8e99.png",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t01462791c31e92737a.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全1集",
+                                        "type": "2"
+                                    },
+                                    "title": "美女与野兽",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=P0Prbc8YMIz3Dz",
+                                    "word": "贝儿公主的野兽先生"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t01c9bd59f928122f98.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "",
+                                        "type": "1"
+                                    },
+                                    "title": "木偶奇遇记",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=1&videoid=havmYUMpSHf8Tx",
+                                    "word": "说谎话是不可以的！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t013cd863b27ef950e9.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至4集",
+                                        "type": "2"
+                                    },
+                                    "title": "精灵旅社2",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=QkbncJ7kLozyCD",
+                                    "word": "酷！吸血鬼与人类的孩子？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t018a738582ed75b31f.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全1集",
+                                        "type": "2"
+                                    },
+                                    "title": "芭比之花仙子",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PEPkasGlMYazDj",
+                                    "word": "小精灵花仙子带你拯救花园"
+                                }
+                            ]
+                        },
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t010055359f0a2aeaa6.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全1集",
+                                        "type": "2"
+                                    },
+                                    "title": "爱丽丝梦游仙境",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OU4oa8LXYY3wDD",
+                                    "word": "梦里面竟没有糖果和蛋糕"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t018b1acbf25e24813a.jpg",
+                                    "dynamicImg": "http://p0.qhimg.com/t01fbf922426bfc9097.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全1集",
+                                        "type": "2"
+                                    },
+                                    "title": "白雪公主",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=O0Dlbc8VXY3wDT",
+                                    "word": "吃了苹果的白雪公主深睡了"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t018f4302dd0da565be.jpg",
+                                    "dynamicImg": "http://p0.qhimg.com/t012c641f2dc8f9da6d.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全1集",
+                                        "type": "2"
+                                    },
+                                    "title": "唐老鸭的幸福生活",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PkDoa57jNIa1ET",
+                                    "word": "嘎~爱发脾气的唐老鸭"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t013ea4ee91b8b3a255.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全1集",
+                                        "type": "2"
+                                    },
+                                    "title": "玩具总动员",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PkDpbJ7kLo31DD",
+                                    "word": "玩具变成人之后会怎样？"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "迪士尼总动员",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "GO！GO！迪士尼",
+                    "showMoreFlag": 1,
+                    "showMoreTips": "精彩换一批",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=158&title=迪士尼动画",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "http://p3.qhimg.com/t01eda83f1533859472.png",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p8.qhimg.com/t0161e3c2d270c73cb7.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全52集",
+                                        "type": "2"
+                                    },
+                                    "title": "熊熊乐园",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkHlaZ7kMYCwCT",
+                                    "word": "熊宝去上幼儿园"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t015779f81bc347e0a8.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全集",
+                                        "type": "2"
+                                    },
+                                    "title": "熊出没之环球大冒险",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OU8rOpzkLIVAeD",
+                                    "word": "跟着狗熊去冒险"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p4.qhimg.com/t01c106c1d5c7b9e905.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至5集",
+                                        "type": "2"
+                                    },
+                                    "title": "熊出没之年货",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=P0XpasOmLIauCD",
+                                    "word": "光头强顺利闯过年关"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01de18b69cc5fd8d60.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至14集",
+                                        "type": "2"
+                                    },
+                                    "title": "熊出没之过年",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PEXla8GlLIzvCz",
+                                    "word": "除夕夜与家人团聚"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "熊出没大放送",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "光头强！我在这！",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=418&title=熊出没专区",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "http://p0.qhimg.com/t01f24737115574c977.png",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01582d69e8b32a5dfe.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全39集",
+                                        "type": "2"
+                                    },
+                                    "title": "咸蛋超人",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PEPtcZ7jNY7xCj",
+                                    "word": "初代奥特曼来啦！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p0.qhimg.com/t0127da9d6ace3d6398.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至15集",
+                                        "type": "2"
+                                    },
+                                    "title": "捷德奥特曼",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PEfncJ7kMo7xDT",
+                                    "word": "超新奥特曼重磅出击"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t0132ad7bd940ec7935.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全39集",
+                                        "type": "2"
+                                    },
+                                    "title": "初代奥特曼 国语版",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkDrasPULoWvCj",
+                                    "word": "最早的奥特曼不是蛋？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t0158d17d5517759702.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全51集",
+                                        "type": "2"
+                                    },
+                                    "title": "超人杰克",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=QULocc7lL43vCD",
+                                    "word": "超人杰克正在战斗"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "奥特曼大放送",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "和我一起拯救世界！",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=141&title=奥特曼",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "http://p7.qhimg.com/t013a99105ebccd24d1.png",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p9.qhimg.com/t0141a19de9a97a1013.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全1集",
+                                        "type": "2"
+                                    },
+                                    "title": "猪猪侠之百变联盟前传",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkbpbJ7jMIC0CT",
+                                    "word": "新的力量正在崛起"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01a9c81615a19e469e.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全集",
+                                        "type": "2"
+                                    },
+                                    "title": "猪猪侠之超星萌宠2 ",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PU31OZOmMYNAeD",
+                                    "word": "外星人潜伏在各个角落"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t0179c4b5159a2d6671.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至52集",
+                                        "type": "2"
+                                    },
+                                    "title": "猪猪侠11光明守卫者",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=O0DkbZ7kLIzuDT",
+                                    "word": "誓让童话王国永保和平！"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t01631a2e7540ae5b41.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全52集",
+                                        "type": "2"
+                                    },
+                                    "title": "猪猪侠10五灵守卫者",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=QUHob57jMoOwCj",
+                                    "word": "小伙伴们开启保卫战"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "猪猪侠大放送",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "戳这里有秘密",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=419&title=猪猪侠专区",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                },
+                {
+                    "bgCover": "",
+                    "blockItems": [
+                        {
+                            "smallItems": [
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01ab5606f258ca9d5e.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至1520集",
+                                        "type": "2"
+                                    },
+                                    "title": "贝瓦儿歌",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkPnbs3kMI3xCj",
+                                    "word": "快快乐乐学儿歌"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p6.qhimg.com/t01eda23a11b19285db.jpg",
+                                    "dynamicImg": "http://p8.qhimg.com/t0151622a198dd72a8d.gif",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全52集",
+                                        "type": "2"
+                                    },
+                                    "title": "倒霉熊第三部",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkPkap7jLoz3Cz",
+                                    "word": "笨熊在运动"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p2.qhimg.com/t01f18b1cf8351c2ad9.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全26集",
+                                        "type": "2"
+                                    },
+                                    "title": "愤怒的小鸟之猪猪传",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OU8tbZ7kLoO0DT",
+                                    "word": "猪猪传第一季"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p1.qhimg.com/t014e88cb4b6753d6ae.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "全60集",
+                                        "type": "2"
+                                    },
+                                    "title": "京剧猫",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PkLscp7jM4S0Dj",
+                                    "word": "一只唱京剧的白猫？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p5.qhimg.com/t0144ebddece41c6869.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至191集",
+                                        "type": "2"
+                                    },
+                                    "title": "猫和老鼠TV版",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=O04pacfYYo3zDz",
+                                    "word": "听说汤姆不抓老鼠了？"
+                                },
+                                {
+                                    "aditems": {
+                                        "adtype": "",
+                                        "apkname": "",
+                                        "downloadurl": "",
+                                        "h5uri": "",
+                                        "packagename": "",
+                                        "vercode": ""
+                                    },
+                                    "cover": "http://p3.qhimg.com/t010436599cdb62503e.jpg",
+                                    "dynamicImg": "",
+                                    "isad": 0,
+                                    "label": {
+                                        "content": "更新至3001集",
+                                        "type": "2"
+                                    },
+                                    "title": "功夫兔与菜包狗",
+                                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkHob83lL4zzCD",
+                                    "word": "合家欢动画大餐"
+                                }
+                            ]
+                        }
+                    ],
+                    "blockName": "小伙伴都在看",
+                    "blockType": "H",
+                    "endColor": "",
+                    "frontColor": "",
+                    "getMore": "更多欢乐go！",
+                    "showMoreFlag": 0,
+                    "showMoreTips": "",
+                    "tagUri": "qhvideo://vapp.360.cn/channel?catid=6&tid=101&title=少儿动画",
+                    "tipsUri": "",
+                    "tipsWord": ""
+                }
+            ],
+            "filterBlock": {
+                "items": [
+                    {
+                        "icon": "http://p5.qhimg.com/t019135d67a5f61851b.png",
+                        "title": "海底小纵队",
+                        "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PELnap7kMICxET&startfrom=inside"
+                    },
+                    {
+                        "icon": "http://p5.qhimg.com/t01dc4645883da84b60.png",
+                        "title": "熊出没",
+                        "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkHlaZ7kMYCwCT&startfrom=inside"
+                    },
+                    {
+                        "icon": "http://p8.qhimg.com/t01aea927a0e3377bc8.png",
+                        "title": "猪猪侠",
+                        "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=P0Xma57kMoCzDT&startfrom=inside"
+                    },
+                    {
+                        "icon": "http://p7.qhimg.com/t01f1737fe6111b2bb6.png",
+                        "title": "朵拉",
+                        "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OUHqaZ7kLIS0ET&startfrom=inside"
+                    }
+                ]
+            },
+            "focus": [
+                {
+                    "cover": "http://p2.qhimg.com/t018d46999b7e64f5ea.jpg",
+                    "markIcon": "",
+                    "shouzhu": 0,
+                    "title": "《超级飞侠3》快递小飞机再开新旅途(共26集)",
+                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=OkPmbJ7kMIawDD"
+                },
+                {
+                    "cover": "http://p2.qhimg.com/t01a0c2c92da4104b9c.jpg",
+                    "markIcon": "",
+                    "shouzhu": 0,
+                    "title": "《小公主苏菲亚》会飞的皇冠(至25集)",
+                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PEHkcsClLoazCD"
+                },
+                {
+                    "cover": "http://p7.qhimg.com/t015284bc64608d7e33.jpg",
+                    "markIcon": "",
+                    "shouzhu": 0,
+                    "title": "《海绵宝宝》请你吃蟹黄堡~(至199集)",
+                    "uri": "qhvideo://vapp.360.cn/detailpage?cat=4&videoid=PEHqaZ7kLIOuDz"
+                }
+            ],
+            "searchHotword": "摔跤吧！爸爸"
+        },
+        "error": 0
+    }
+}

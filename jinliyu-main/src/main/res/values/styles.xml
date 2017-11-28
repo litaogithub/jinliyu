@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--屏蔽ActionBar-->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="DoDoAppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <!--这个放在application里，在设置了activity的theme后，无效-->
+    <style name="DoDoAppTheme.Before" parent="DoDoAppTheme.Base">
+        <item name="android:windowBackground">@drawable/before_launcher</item>
+        <!--app启动时显示的背景-->
+
+    </style>
+
+    <style name="DoDoAppTheme" parent="DoDoAppTheme.Base">
+        <item name="android:windowBackground">@color/app_background</item>
+    </style>
+
+</resources>

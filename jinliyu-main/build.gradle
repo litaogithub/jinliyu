@@ -1,0 +1,64 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+    defaultConfig {
+        applicationId "com.xingyunyicai.jinliyu"
+        minSdkVersion 18
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+
+        ndk {
+            //选择要添加的对应cpu类型的.so库。
+            abiFilters 'armeabi', 'armeabi-v7a', 'arm64-v8a', 'x86', 'x86_64', 'mips', 'mips64'
+        }
+
+        manifestPlaceholders = [
+                JPUSH_PKGNAME: applicationId,
+                JPUSH_APPKEY : "931005e5b46c7329261e4ac2", //JPush上注册的包名对应的appkey.
+                JPUSH_CHANNEL: "developer-default", //暂时填写默认值即可.
+        ]
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    productFlavors {
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    testCompile 'junit:junit:4.12'
+
+    compile project(':qihoo-video')//示例Demo
+    compile project(':jinliyu-ec')
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+    compile 'cn.jiguang.sdk:jpush:3.0.9'
+    // 此处以JPush 3.0.9 版本为例。
+    compile 'cn.jiguang.sdk:jcore:1.1.7'
+    // 此处以JCore 1.1.7 版本为例。
+
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ToolBar背景色--><!--默认 #3F51B5-->
+    <color name="colorPrimary">@color/app_background</color>
+    <!--StatusBar状态栏背景色--><!--默认 #303F9F-->
+    <color name="colorPrimaryDark">@color/app_background</color>
+    <!--控件主色调--><!--默认 #FF4081-->
+    <color name="colorAccent">@color/app_background</color>
+
+</resources>

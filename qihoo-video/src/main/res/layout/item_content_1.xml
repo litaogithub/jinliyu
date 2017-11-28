@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ll_content"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_marginBottom="6dp">
+
+            <ImageView
+                android:id="@+id/cover"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#d8d8d8" />
+
+            <FrameLayout
+                android:id="@+id/press"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/item_img_selector" />
+
+            <TextView
+                android:id="@+id/content_type_2"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/video_item_mask"
+                android:gravity="bottom|right"
+                android:paddingBottom="3dp"
+                android:paddingRight="7dp"
+                android:text="更新至999集"
+                android:textColor="@android:color/white"
+                android:textSize="11sp" />
+
+            <TextView
+                android:id="@+id/content_type_1"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/video_item_mask"
+                android:gravity="bottom|right"
+                android:paddingBottom="3dp"
+                android:paddingRight="7dp"
+                android:text="9.9分"
+                android:textStyle="bold"
+                android:textColor="#e0a33f"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical|left"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="名侦探柯南 国语版"
+        android:textColor="@android:color/background_dark"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/word"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical|left"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:paddingTop="2dp"
+        android:text="真相只有一个"
+        android:textColor="#888888"
+        android:textSize="11sp" />
+
+    <View
+        android:id="@+id/space"
+        android:layout_width="match_parent"
+        android:layout_height="8dp" />
+
+
+</LinearLayout>

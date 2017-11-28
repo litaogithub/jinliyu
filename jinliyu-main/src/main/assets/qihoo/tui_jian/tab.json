@@ -1,0 +1,81 @@
+﻿{
+    "data": {
+        "data": {
+            "list": [
+                {
+                    "bannerAdCount": 1,
+                    "bannerAdGap": 3,
+                    "bannerAdStart": 7,
+                    "jsonPath2": "cloud/tj_home_v2.json",
+                    "jsonPath3": "cloud/tj_home_v3.json",
+                    "listAdCount": 2,
+                    "listAdGap": 4,
+                    "listAdStart": 2,
+                    "tid": 0,
+                    "title": "首页"
+                },
+                {
+                    "bannerAdCount": 0,
+                    "bannerAdGap": 0,
+                    "bannerAdStart": 0,
+                    "jsonPath2": "cloud/tj_dianshi_v2.json",
+                    "jsonPath3": "cloud/tj_dianshi_v3.json",
+                    "listAdCount": 0,
+                    "listAdGap": 0,
+                    "listAdStart": 0,
+                    "tid": 2,
+                    "title": "电视剧"
+                },
+                {
+                    "bannerAdCount": 0,
+                    "bannerAdGap": 0,
+                    "bannerAdStart": 0,
+                    "jsonPath2": "cloud/tj_dianying_v2.json",
+                    "jsonPath3": "cloud/tj_dianying_v3.json",
+                    "listAdCount": 0,
+                    "listAdGap": 0,
+                    "listAdStart": 0,
+                    "tid": 1,
+                    "title": "电影"
+                },
+                {
+                    "bannerAdCount": 0,
+                    "bannerAdGap": 0,
+                    "bannerAdStart": 0,
+                    "jsonPath2": "cloud/tj_zongyi_v2.json",
+                    "jsonPath3": "cloud/tj_zongyi_v3.json",
+                    "listAdCount": 0,
+                    "listAdGap": 0,
+                    "listAdStart": 0,
+                    "tid": 3,
+                    "title": "综艺"
+                },
+                {
+                    "bannerAdCount": 0,
+                    "bannerAdGap": 0,
+                    "bannerAdStart": 0,
+                    "jsonPath2": "cloud/tj_donghua_v2.json",
+                    "jsonPath3": "cloud/tj_donghua_v3.json",
+                    "listAdCount": 0,
+                    "listAdGap": 0,
+                    "listAdStart": 0,
+                    "tid": 5,
+                    "title": "少儿"
+                },
+                {
+                    "bannerAdCount": 0,
+                    "bannerAdGap": 0,
+                    "bannerAdStart": 0,
+                    "jsonPath2": "cloud/tj_dongman_v2.json",
+                    "jsonPath3": "cloud/tj_dongman_v3.json",
+                    "listAdCount": 0,
+                    "listAdGap": 0,
+                    "listAdStart": 0,
+                    "tid": 4,
+                    "title": "动漫"
+                }
+            ]
+        },
+        "error": 0
+    }
+}

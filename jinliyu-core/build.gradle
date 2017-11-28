@@ -1,0 +1,123 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.jakewharton.butterknife'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+    defaultConfig {
+        minSdkVersion 18
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    testCompile 'junit:junit:4.12'
+    //Android Support包
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+//    compile project(':dodo-annotations')
+    //字体图标
+    compile 'com.joanzapata.iconify:android-iconify-ionicons:2.2.2'
+    compile 'com.joanzapata.iconify:android-iconify-fontawesome:2.2.2'
+    //Fragment依赖
+    compile 'me.yokeyword:fragmentation:1.1.6'
+    compile 'me.yokeyword:fragmentation-swipeback:1.1.6'
+    //ButterKnife依赖
+    compile 'com.jakewharton:butterknife:8.8.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+    //网络请求依赖
+    compile 'com.squareup.okio:okio:1.13.0'
+    compile 'com.squareup.okhttp3:okhttp:3.8.1'
+    compile 'com.squareup.retrofit2:retrofit:2.3.0'
+    //转换器 支持返回String类型 最原始的
+    compile 'com.squareup.retrofit2:converter-scalars:2.3.0'
+    //转换器 支持返回实体类
+    compile 'com.squareup.retrofit2:converter-gson:2.3.0'
+    //Loader依赖
+    compile 'com.wang.avi:library:2.1.3'
+    //Banner依赖
+    compile 'com.bigkoo:convenientbanner:2.0.5'
+    compile 'com.youth.banner:banner:1.4.10'
+    //Banner依赖 - ViewPager页面变换，3D效果等
+    compile 'com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32@aar'
+    //Stetho查看数据库，网络抓包，视图等
+    compile 'com.facebook.stetho:stetho:1.5.0'
+    compile 'com.facebook.stetho:stetho-okhttp3:1.5.0'
+    //Json依赖
+    //    compile 'com.alibaba:fastjson:1.2.37'
+    //Json依赖 Android版
+    compile 'com.alibaba:fastjson:1.1.62.android'
+    //Log
+    compile 'com.orhanobut:logger:2.1.1'
+    //数据库
+    compile 'org.greenrobot:greendao:3.2.2'
+    compile 'org.greenrobot:greendao-generator:3.2.2'
+    //RecyclerView依赖
+    compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.28'
+    //RecyclerView 分割线
+    compile 'com.github.fondesa:recycler-view-divider:1.3.3'
+    //图片处理
+    compile 'com.github.bumptech.glide:glide:4.1.1'
+    compile 'com.github.bumptech.glide:okhttp3-integration:4.1.1@aar'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.1.1'
+    //沉浸式状态栏
+    compile('com.github.niorgai:StatusBarCompat:2.1.4', {
+        exclude group: 'com.android.support'
+    })
+    compile 'com.jaeger.statusbarutil:library:1.4.0'
+    //Google AutoValue
+    provided 'com.google.auto.value:auto-value:1.4.1'
+    annotationProcessor "com.google.auto.value:auto-value:1.4.1"
+    //CircleImageView
+    compile 'de.hdodenhof:circleimageview:2.2.0'
+    compile 'com.makeramen:roundedimageview:2.3.0'
+    //View动画依赖
+    compile 'com.daimajia.easing:library:2.0@aar'
+    compile 'com.daimajia.androidanimations:library:2.3@aar'
+    //TextView渐变特效
+    compile 'com.sdsmdg.harjot:rotatingtext:1.0.2'
+    //TabLayout库
+    compile 'com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2@aar'
+    //EventBus 事件总线
+    compile 'org.greenrobot:eventbus:3.0.0'
+    //流式布局
+    compile('com.google.android:flexbox:0.3.1', {
+        exclude group: 'com.android.support'
+    })
+    //工具包
+    compile 'com.blankj:utilcode:1.9.3'
+    //动态权限处理
+    compile 'com.github.hotchemi:permissionsdispatcher:3.0.1'
+    annotationProcessor 'com.github.hotchemi:permissionsdispatcher-processor:3.0.1'
+    //下拉列表
+//    compile ('com.github.ganfra:material-spinner:2.0.0'){
+//        exclude group: 'com.android.support'
+//    }
+//    compile 'com.github.arcadefire:nice-spinner:1.3'
+//    compile project(':material-spinner-1.0.5')
+
+}

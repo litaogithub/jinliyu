@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_tab_container_bg">#f7f7f7</color>
+    <color name="main_tab_text_color">#666666</color>
+    <color name="tool_bar_background">#1db69a</color>
+    <color name="qihoo_home_bg">#f0f0f0</color>
+    <color name="home_search_bg">#801db69a</color>
+    <!--水波纹颜色-->
+    <color name="tool_bar_ripple_color">#20000000</color>
+
+    <color name="item_bg_normal">@android:color/white</color>
+    <color name="item_bg_press">#8033b5e5</color>
+
+    <color name="space_bg">#f0f0f0</color>
+
+    <color name="bao_dian_bg_nomal">#00000000</color>
+    <color name="bao_dian_bg_press">#40000000</color>
+
+</resources>

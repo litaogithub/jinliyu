@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_game"
+        android:icon="@drawable/home_game_icon"
+        android:orderInCategory="100"
+        android:title="游戏中心"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_history"
+        android:icon="@drawable/home_playhistory_icon"
+        android:orderInCategory="100"
+        android:title="观看记录"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_download"
+        android:icon="@drawable/home_download_icon"
+        android:orderInCategory="100"
+        android:title="离线缓存"
+        app:showAsAction="always" />
+
+
+</menu>

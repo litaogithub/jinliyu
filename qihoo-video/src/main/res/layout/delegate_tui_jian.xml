@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/qihoo_home_bg"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:background="@color/qihoo_color" />
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/tool_bar_background"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp"
+        app:layout_collapseMode="pin"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:theme="@style/ThemeOverlay.AppCompat.ActionBar">
+
+        <android.support.v7.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <android.support.v7.widget.AppCompatImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/home_logo_pic" />
+
+            <android.support.v7.widget.LinearLayoutCompat
+                android:id="@+id/ll_search"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                android:alpha="0.4"
+                android:background="@drawable/home_search_bg"
+                android:baselineAligned="true"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="6dp"
+                    android:layout_marginRight="-8dp"
+                    android:alpha="0.8"
+                    android:scaleType="fitStart"
+                    android:src="@drawable/home_search_icon" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/tv_search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="-18dp"
+                    android:layout_marginRight="8dp"
+                    android:gravity="center"
+                    android:text="春风十里不如你"
+                    android:textColor="@android:color/white"
+                    android:textSize="11sp" />
+
+            </android.support.v7.widget.LinearLayoutCompat>
+
+            <android.support.v7.widget.LinearLayoutCompat
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/rl_game"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/toolbar_game_bg">
+
+                    <android.support.v7.widget.AppCompatImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:scaleType="centerCrop"
+                        app:srcCompat="@drawable/home_game_icon" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rl_history"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/toolbar_playhistory_bg">
+
+                    <android.support.v7.widget.AppCompatImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:scaleType="centerCrop"
+                        app:srcCompat="@drawable/home_playhistory_icon" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rl_download"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/toolbar_download_bg">
+
+                    <android.support.v7.widget.AppCompatImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:scaleType="centerCrop"
+                        app:srcCompat="@drawable/home_download_icon" />
+                </RelativeLayout>
+
+            </android.support.v7.widget.LinearLayoutCompat>
+
+        </android.support.v7.widget.LinearLayoutCompat>
+
+    </android.support.v7.widget.Toolbar>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/empty"
+            layout="@layout/view_empty_loading" />
+
+        <LinearLayout
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/qihoo_home_bg"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <com.flyco.tablayout.SlidingTabLayout
+                android:id="@+id/tab_layout"
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:background="@android:color/white"
+                app:tl_indicator_color="@color/qihoo_color"
+                app:tl_indicator_margin_bottom="6dp"
+                app:tl_indicator_width_equal_title="true"
+                app:tl_tab_padding="18dp"
+                app:tl_textSelectColor="@color/qihoo_color"
+                app:tl_textUnselectColor="#cc000000"
+                app:tl_textsize="14sp" />
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/view_pager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</android.support.v7.widget.LinearLayoutCompat>
