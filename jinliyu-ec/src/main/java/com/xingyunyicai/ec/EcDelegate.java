@@ -20,5 +20,6 @@ public class EcDelegate extends DoDoDelegate {
     @Override
     public void onBindView(@Nullable Bundle savedInstanceState, View rootView) {
 
+        //test
     }
 }
