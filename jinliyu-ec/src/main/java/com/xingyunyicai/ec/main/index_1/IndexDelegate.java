@@ -1,4 +1,4 @@
-package com.xingyunyicai.ec;
+package com.xingyunyicai.ec.main.index_1;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -9,9 +9,11 @@ import android.widget.ImageView;
 import com.blankj.utilcode.util.ToastUtils;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.RequestOptions;
-import com.xingyunyicai.core.delegates.DoDoDelegate;
+import com.xingyunyicai.core.delegates.bottom.BaseBottomItemDelegate;
 import com.xingyunyicai.core.ui.image.GlideApp;
-import com.xingyunyicai.ec.bean.BannerBean;
+import com.xingyunyicai.ec.R;
+import com.xingyunyicai.ec.R2;
+import com.xingyunyicai.ec.main.index_1.bean.BannerBean;
 import com.youth.banner.Banner;
 import com.youth.banner.BannerConfig;
 import com.youth.banner.listener.OnBannerListener;
@@ -25,7 +27,7 @@ import butterknife.BindView;
  * Created by YuanJun on 2017/11/29 10:28
  */
 
-public class IndexDelegate extends DoDoDelegate {
+public class IndexDelegate extends BaseBottomItemDelegate {
 
     @BindView(R2.id.banner)
     Banner mBanner = null;

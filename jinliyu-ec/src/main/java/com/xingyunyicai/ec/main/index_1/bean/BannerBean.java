@@ -1,4 +1,4 @@
-package com.xingyunyicai.ec.bean;
+package com.xingyunyicai.ec.main.index_1.bean;
 
 import java.util.List;
 
