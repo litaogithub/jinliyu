@@ -73,12 +73,12 @@ public class IndexDelegate extends BaseBottomItemDelegate {
         final BannerBean bannerBean = new BannerBean();
         final ArrayList<String> titles = new ArrayList<>();
         final ArrayList<String> images = new ArrayList<>();
-        for (int i = 0; i < 3; i++) {
-            final String title = "测试页 " + (i + 1);
-            final String image = "http://img.zcool.cn/community/01f5045663ca6c32f8754573b70db1.jpg@900w_1l_2o_100sh.jpg";
-            titles.add(title);
-            images.add(image);
-        }
+        titles.add("图片1");
+        images.add("http://img.zcool.cn/community/01f5045663ca6c32f8754573b70db1.jpg@900w_1l_2o_100sh.jpg");
+        titles.add("图片2");
+        images.add("http://img.zcool.cn/community/010a3757a35e200000012e7ef37e76.jpg");
+        titles.add("图片3");
+        images.add("http://img.zcool.cn/community/014a2157ccd3ca0000018c1b7b53d1.jpg@900w_1l_2o_100sh.jpg");
         bannerBean.setTitles(titles);
         bannerBean.setImages(images);
         return bannerBean;
