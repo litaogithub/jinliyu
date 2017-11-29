@@ -56,8 +56,8 @@ public class IndexDelegate extends BaseBottomItemDelegate {
                                 .into(imageView);
                     }
                 })
-                .setBannerStyle(BannerConfig.CIRCLE_INDICATOR_TITLE_INSIDE)
-                .setIndicatorGravity(BannerConfig.RIGHT)
+                .setBannerStyle(BannerConfig.CIRCLE_INDICATOR)
+                .setIndicatorGravity(BannerConfig.CENTER)
                 .isAutoPlay(true)
                 .setDelayTime(4000)
                 .setOnBannerListener(new OnBannerListener() {

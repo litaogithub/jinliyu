@@ -20,20 +20,17 @@ public class ECBottomDelegate extends BaseBottomContainerDelegate {
     public LinkedHashMap<BaseBottomTabBean, BaseBottomItemDelegate> setTabItems(BottomItemBuilder builder) {
         final LinkedHashMap<BaseBottomTabBean, BaseBottomItemDelegate> items = new LinkedHashMap<>();
         items.put(BottomTabBeanBuilder.builder(getContext())
-                .setTabBean(new BottomTabIconTitleBean("{fa-android}","首页1"))
+                .setTabBean(new BottomTabIconTitleBean("{fa-android}","首页"))
                 .build(), new IndexDelegate());
         items.put(BottomTabBeanBuilder.builder(getContext())
-                .setTabBean(new BottomTabIconTitleBean("{fa-android}","首页2"))
-                .build(), TestDelegate.create("首页2"));
+                .setTabBean(new BottomTabIconTitleBean("{fa-android}","特品汇"))
+                .build(), TestDelegate.create("特品汇"));
         items.put(BottomTabBeanBuilder.builder(getContext())
-                .setTabBean(new BottomTabIconTitleBean("{fa-android}","首页3"))
-                .build(), TestDelegate.create("首页3"));
+                .setTabBean(new BottomTabIconTitleBean("{fa-android}","我的社区"))
+                .build(), TestDelegate.create("我的社区"));
         items.put(BottomTabBeanBuilder.builder(getContext())
-                .setTabBean(new BottomTabIconTitleBean("{fa-android}","首页4"))
-                .build(), TestDelegate.create("首页4"));
-        items.put(BottomTabBeanBuilder.builder(getContext())
-                .setTabBean(new BottomTabIconTitleBean("{fa-android}","首页5"))
-                .build(), TestDelegate.create("首页5"));
+                .setTabBean(new BottomTabIconTitleBean("{fa-android}","个人中心"))
+                .build(), TestDelegate.create("个人中心"));
 
         return builder.addItems(items).build();
     }
