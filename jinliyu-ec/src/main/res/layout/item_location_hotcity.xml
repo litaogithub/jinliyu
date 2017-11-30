@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="10dp"
+    android:paddingBottom="10dp">
+
+    <TextView
+        android:id="@+id/btn_hotcity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/textview_backgroud_color"
+        android:layout_marginLeft="10dp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:drawablePadding="2dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="廊坊"/>
+
+</LinearLayout>

@@ -26,6 +26,7 @@ public final class DoDoPreference {
     private static final SharedPreferences PREFERENCES =
             PreferenceManager.getDefaultSharedPreferences(DoDo.getAppContext());
     private static final String APP_PREFERENCES_KEY = "profile";//TODO profile:配置文件
+    public  static final String HISTORY_CITY = "historySearchCity";//历史访问城市记录
 
     private static SharedPreferences getAppPreference() {
         return PREFERENCES;

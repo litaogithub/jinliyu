@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DoDoEC</string>
+    <string name="default_location_city">北京</string>
 </resources>

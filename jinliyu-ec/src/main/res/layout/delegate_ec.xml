@@ -5,8 +5,10 @@
     android:orientation="vertical">
 
     <TextView
+        android:id="@+id/enter_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="20sp"
         android:text="金鲤鱼特品会" />
 
 </LinearLayout>

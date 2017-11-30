@@ -45,6 +45,11 @@ public class MulEntityBuilder {
         return this;
     }
 
+    public final MulEntityBuilder setTag(Object object) {
+        FIELDS.put(MulFields.TAG, object);
+        return this;
+    }
+
     public final MulEntityBuilder setBean(Object bean) {
         FIELDS.put(MulFields.BEAN, bean);
         return this;
@@ -69,6 +74,11 @@ public class MulEntityBuilder {
 
     public final MulEntityBuilder setSpace() {
         FIELDS.put(MulFields.ITEM_TYPE, ItemType.SPACE);
+        return this;
+    }
+
+    public final MulEntityBuilder setId(int size) {
+        FIELDS.put(MulFields.ID,size);
         return this;
     }
 

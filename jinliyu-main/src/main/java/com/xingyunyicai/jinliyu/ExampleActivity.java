@@ -10,7 +10,8 @@ import com.xingyunyicai.ec.EcDelegate;
 
 import me.yokeyword.fragmentation.anim.DefaultHorizontalAnimator;
 import me.yokeyword.fragmentation.anim.FragmentAnimator;
-import qiu.niorgai.StatusBarCompat;
+
+
 
 public class ExampleActivity extends ProxyActivity {
 
@@ -27,8 +28,8 @@ public class ExampleActivity extends ProxyActivity {
         在toolbar上创建menu，需要去掉自带的ActionBar，方法有两种：
         1、使用不带ActionBar的主题，比如：Theme.AppCompat.Light.NoActionBar
         2、使用默认的主题（自带Actionbar），加入两个属性
-            <item name="windowActionBar">false</item>
-            <item name="windowNoTitle">true</item>
+            <item_location_sort name="windowActionBar">false</item_location_sort>
+            <item_location_sort name="windowNoTitle">true</item_location_sort>
          */
 //        ActionBar actionBar = getSupportActionBar();
 //        if (actionBar != null) {
@@ -37,7 +38,7 @@ public class ExampleActivity extends ProxyActivity {
 //        }
         DoDo.getConfigurator().withActivity(this);
         //透明状态栏
-        StatusBarCompat.translucentStatusBar(this, true);
+//        StatusBarCompat.translucentStatusBar(this, true);
 //        StatusBarUtil.setColor(this, Color.parseColor("#1db69a"), 0);
         setDefaultFragmentBackground(R.color.default_fragment_background);
     }

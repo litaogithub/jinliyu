@@ -4,7 +4,7 @@
     <style name="DoDoAppTheme" parent="DoDoAppTheme.Base">
         <item name="android:windowBackground">@color/app_background</item>
         <!--状态栏透明-->
-        <!--<item name="android:statusBarColor">@android:color/transparent</item>-->
+        <!--<item_location_sort name="android:statusBarColor">@android:color/transparent</item_location_sort>-->
     </style>
 
 </resources>
