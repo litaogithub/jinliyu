@@ -24,35 +24,36 @@
             android:gravity="center_vertical"
             android:orientation="horizontal">
 
-            <RelativeLayout
-                android:id="@+id/rl_back"
+            <com.joanzapata.iconify.widget.IconTextView
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_gravity="center_vertical"
-                android:background="@android:color/transparent"
-                android:paddingBottom="6dp"
-                android:paddingTop="6dp">
-
-                <android.support.v7.widget.AppCompatImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:scaleType="fitCenter"
-                    app:srcCompat="@drawable/title_back_icon" />
-            </RelativeLayout>
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:gravity="center_vertical"
+                android:text="{fa-chevron-left}"
+                android:textColor="@color/test_color_black"
+                android:textSize="16sp" />
 
             <LinearLayout
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="8dp"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
-                android:layout_marginTop="8dp"
+                android:layout_marginBottom="9dp"
+                android:layout_marginTop="9dp"
                 android:layout_weight="1"
                 android:background="@drawable/search_bg"
                 android:baselineAligned="true"
                 android:orientation="horizontal"
                 android:paddingLeft="12dp"
                 android:paddingRight="10dp">
+
+                <com.joanzapata.iconify.widget.IconTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="{fa-search}"
+                    android:textColor="#80808080"
+                    android:textSize="14sp" />
 
                 <EditText
                     android:id="@+id/edit_content"
@@ -65,9 +66,9 @@
                     android:imeOptions="actionSearch"
                     android:inputType="text"
                     android:maxLines="1"
-                    android:textColor="@android:color/white"
-                    android:textColorHint="#ccffffff"
-                    android:textSize="12sp" />
+                    android:textColor="@color/test_color_black"
+                    android:textColorHint="#808080"
+                    android:textSize="13sp" />
 
                 <RelativeLayout
                     android:id="@+id/clear"
@@ -89,17 +90,31 @@
 
             </LinearLayout>
 
-            <android.support.v7.widget.AppCompatTextView
-                android:id="@+id/tv_location"
+            <LinearLayout
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="12dp"
-                android:enabled="true"
-                android:gravity="center"
-                android:text="定位↓"
-                android:textColor="@android:color/white"
-                android:textSize="14sp" />
+                android:layout_height="match_parent"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="2dp"
+                    android:gravity="center"
+                    android:text="定位"
+                    android:textColor="@color/test_color_black" />
+
+                <com.joanzapata.iconify.widget.IconTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="2dp"
+                    android:gravity="center_vertical"
+                    android:text="{fa-caret-down}"
+                    android:textColor="@color/test_color_black"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
 
         </LinearLayout>
 
@@ -107,12 +122,12 @@
 
     <View
         android:layout_width="match_parent"
-        android:layout_height="1dp"
+        android:layout_height="0.5dp"
         android:background="@android:color/darker_gray" />
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="36dp"
+        android:layout_height="46dp"
         android:gravity="center_vertical"
         android:orientation="horizontal">
 
@@ -121,57 +136,19 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="12dp"
             android:text="分类:"
-            android:textColor="#cc000000"
+            android:textColor="@color/test_color_black"
             android:textSize="15sp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="14dp"
-            android:gravity="center"
-            android:text="条目1"
-            android:textColor="@color/app_background" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="14dp"
-            android:text="条目2" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="14dp"
-            android:text="条目3" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="14dp"
-            android:text="条目4" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="14dp"
-            android:text="条目5" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="14dp"
-            android:text="条目6" />
 
     </LinearLayout>
 
     <View
         android:layout_width="match_parent"
-        android:layout_height="1dp"
+        android:layout_height="0.5dp"
         android:background="@android:color/darker_gray" />
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="42dp"
+        android:layout_height="46dp"
         android:orientation="horizontal"
         android:paddingBottom="6dp"
         android:paddingTop="6dp">
@@ -184,41 +161,113 @@
             android:background="@drawable/shape_sort_bg"
             android:gravity="center"
             android:text="默认排序"
-            android:textColor="#aacc0000" />
+            android:textColor="@color/test_color_black"
+            android:textSize="14sp" />
 
-        <TextView
+        <LinearLayout
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_marginLeft="8dp"
             android:layout_weight="1"
             android:background="@drawable/shape_sort_bg"
-            android:gravity="center"
-            android:text="销量" />
+            android:gravity="center">
 
-        <TextView
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="2dp"
+                android:gravity="center_vertical"
+                android:text="销量"
+                android:textColor="@android:color/holo_red_dark"
+                android:textSize="14sp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <com.joanzapata.iconify.widget.IconTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="2dp"
+                    android:gravity="center_vertical"
+                    android:text="{fa-caret-up}"
+                    android:textColor="#aaaaaa"
+                    android:textSize="12sp" />
+
+                <com.joanzapata.iconify.widget.IconTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:text="{fa-caret-down}"
+                    android:textColor="@android:color/holo_red_dark"
+                    android:textSize="12sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_marginLeft="8dp"
             android:layout_weight="1"
             android:background="@drawable/shape_sort_bg"
-            android:gravity="center"
-            android:text="人气" />
+            android:gravity="center">
 
-        <TextView
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="2dp"
+                android:gravity="center_vertical"
+                android:text="人气"
+                android:textColor="@color/test_color_black"
+                android:textSize="14sp" />
+
+            <com.joanzapata.iconify.widget.IconTextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="{fa-caret-up}"
+                android:textColor="#aaaaaa"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:layout_weight="1"
             android:background="@drawable/shape_sort_bg"
-            android:gravity="center"
-            android:text="价格" />
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="2dp"
+                android:gravity="center_vertical"
+                android:text="价格"
+                android:textColor="@color/test_color_black"
+                android:textSize="14sp" />
+
+            <com.joanzapata.iconify.widget.IconTextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="{fa-caret-down}"
+                android:textColor="@color/test_color_black"
+                android:textSize="14sp" />
+
+        </LinearLayout>
 
     </LinearLayout>
 
     <View
         android:layout_width="match_parent"
-        android:layout_height="1dp"
+        android:layout_height="0.5dp"
         android:background="@android:color/darker_gray" />
 
     <TextView
