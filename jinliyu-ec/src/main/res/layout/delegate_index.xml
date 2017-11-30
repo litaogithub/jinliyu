@@ -1,29 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/white">
-
-    <com.youth.banner.Banner
-        android:id="@+id/banner"
-        android:layout_width="match_parent"
-        android:layout_height="155dp"
-        app:banner_layout="@layout/layout_index_banner"
-        app:indicator_drawable_selected="@drawable/banner_indicator_bg_selected"
-        app:indicator_drawable_unselected="@drawable/banner_indicator_bg_normal"
-        app:scroll_time="600"
-        app:title_textcolor="@android:color/white"
-        app:title_textsize="14sp"
-        app:indicator_height="7dp"
-        app:indicator_width="7dp"/>
+    android:background="@android:color/white"
+    android:orientation="vertical">
 
     <View
         android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:layout_marginLeft="-60dp"
-        android:layout_marginRight="-60dp"
-        android:layout_marginTop="140dp"
-        android:background="@drawable/banner_bottom_shadow" />
+        android:layout_height="24dp"
+        android:background="@android:color/transparent" />
 
-</RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.youth.banner.Banner
+            android:id="@+id/banner"
+            android:layout_width="match_parent"
+            android:layout_height="155dp"
+            app:banner_layout="@layout/layout_index_banner"
+            app:indicator_drawable_selected="@drawable/banner_indicator_bg_selected"
+            app:indicator_drawable_unselected="@drawable/banner_indicator_bg_normal"
+            app:indicator_height="7dp"
+            app:indicator_width="7dp"
+            app:scroll_time="600"
+            app:title_textcolor="@android:color/white"
+            app:title_textsize="14sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="-60dp"
+            android:layout_marginRight="-60dp"
+            android:layout_marginTop="140dp"
+            android:background="@drawable/banner_bottom_shadow" />
+
+    </RelativeLayout>
+
+</LinearLayout>
