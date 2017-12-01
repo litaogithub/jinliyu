@@ -19,21 +19,20 @@ public class ECBottomDelegate extends BaseBottomContainerDelegate {
 
     @Override
     public LinkedHashMap<BaseBottomTabBean, BaseBottomItemDelegate> setTabItems(BottomItemBuilder builder) {
-        final LinkedHashMap<BaseBottomTabBean, BaseBottomItemDelegate> items = new LinkedHashMap<>();
-        items.put(BottomTabBeanBuilder.builder(getContext())
-                .setTabBean(new BottomTabIconTitleBean("{fa-android}","首页"))
-                .build(), new IndexDelegate());
-        items.put(BottomTabBeanBuilder.builder(getContext())
-                .setTabBean(new BottomTabIconTitleBean("{fa-android}","特品汇"))
-                .build(), new TePinDelegate());
-        items.put(BottomTabBeanBuilder.builder(getContext())
-                .setTabBean(new BottomTabIconTitleBean("{fa-android}","我的社区"))
-                .build(), TestDelegate.create("我的社区"));
-        items.put(BottomTabBeanBuilder.builder(getContext())
-                .setTabBean(new BottomTabIconTitleBean("{fa-android}","个人中心"))
-                .build(), TestDelegate.create("个人中心"));
-
-        return builder.addItems(items).build();
+        return builder
+                .addItem(BottomTabBeanBuilder.builder(getContext())
+                        .setTabBean(new BottomTabIconTitleBean("{fa-android}", "首页"))
+                        .build(), new IndexDelegate())
+                .addItem(BottomTabBeanBuilder.builder(getContext())
+                        .setTabBean(new BottomTabIconTitleBean("{fa-android}", "特品汇"))
+                        .build(), new TePinDelegate())
+                .addItem(BottomTabBeanBuilder.builder(getContext())
+                        .setTabBean(new BottomTabIconTitleBean("{fa-android}", "我的社区"))
+                        .build(), TestDelegate.create("我的社区"))
+                .addItem(BottomTabBeanBuilder.builder(getContext())
+                        .setTabBean(new BottomTabIconTitleBean("{fa-android}", "个人中心"))
+                        .build(), TestDelegate.create("个人中心"))
+                .build();
     }
 
     @Override

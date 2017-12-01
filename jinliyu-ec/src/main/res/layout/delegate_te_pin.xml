@@ -120,156 +120,171 @@
 
     </android.support.v7.widget.Toolbar>
 
-    <View
+    <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="0.5dp"
-        android:background="@android:color/darker_gray" />
+        android:layout_height="match_parent">
 
-    <com.flyco.tablayout.CommonTabLayout
-        android:id="@+id/sort"
-        android:layout_width="match_parent"
-        android:layout_height="46dp"
-        android:background="@color/white"
-        app:tl_iconVisible="false"
-        app:tl_indicator_height="0dp"
-        app:tl_textSelectColor="@android:color/holo_red_dark"
-        app:tl_textUnselectColor="@color/test_color_black"
-        app:tl_textsize="14sp" />
-
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="0.5dp"
-        android:background="@android:color/darker_gray" />
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="46dp"
-        android:orientation="horizontal"
-        android:paddingBottom="6dp"
-        android:paddingTop="6dp">
-
-        <TextView
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_marginLeft="8dp"
-            android:layout_weight="1"
-            android:background="@drawable/shape_sort_bg"
-            android:gravity="center"
-            android:text="默认排序"
-            android:textColor="@color/test_color_black"
-            android:textSize="14sp" />
+        <include
+            android:id="@+id/loading"
+            layout="@layout/layout_loading_view" />
 
         <LinearLayout
-            android:layout_width="0dp"
+            android:id="@+id/content"
+            android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_marginLeft="8dp"
-            android:layout_weight="1"
-            android:background="@drawable/shape_sort_bg"
-            android:gravity="center">
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:visibility="gone">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_marginRight="2dp"
-                android:gravity="center_vertical"
-                android:text="销量"
-                android:textColor="@android:color/holo_red_dark"
-                android:textSize="14sp" />
+            <com.flyco.tablayout.SlidingTabLayout
+                android:id="@+id/category"
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:background="@android:color/white"
+                app:tl_indicator_color="@color/dodo_blue"
+                app:tl_indicator_margin_bottom="0dp"
+                app:tl_indicator_width_equal_title="true"
+                app:tl_tab_padding="18dp"
+                app:tl_textSelectColor="@color/dodo_blue"
+                app:tl_textUnselectColor="@color/test_color_black"
+                app:tl_textsize="16sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="@android:color/darker_gray" />
 
             <LinearLayout
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:gravity="center"
-                android:orientation="vertical">
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:orientation="horizontal"
+                android:paddingBottom="6dp"
+                android:paddingTop="6dp">
 
-                <com.joanzapata.iconify.widget.IconTextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginBottom="2dp"
-                    android:gravity="center_vertical"
-                    android:text="{fa-caret-up}"
-                    android:textColor="#aaaaaa"
-                    android:textSize="12sp" />
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="8dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/shape_sort_bg"
+                    android:gravity="center"
+                    android:text="默认排序"
+                    android:textColor="@color/test_color_black"
+                    android:textSize="14sp" />
 
-                <com.joanzapata.iconify.widget.IconTextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:gravity="center_vertical"
-                    android:text="{fa-caret-down}"
-                    android:textColor="@android:color/holo_red_dark"
-                    android:textSize="12sp" />
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="8dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/shape_sort_bg"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginRight="2dp"
+                        android:gravity="center_vertical"
+                        android:text="销量"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:textSize="14sp" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <com.joanzapata.iconify.widget.IconTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="2dp"
+                            android:gravity="center_vertical"
+                            android:text="{fa-caret-up}"
+                            android:textColor="#aaaaaa"
+                            android:textSize="12sp" />
+
+                        <com.joanzapata.iconify.widget.IconTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:text="{fa-caret-down}"
+                            android:textColor="@android:color/holo_red_dark"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="8dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/shape_sort_bg"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginRight="2dp"
+                        android:gravity="center_vertical"
+                        android:text="人气"
+                        android:textColor="@color/test_color_black"
+                        android:textSize="14sp" />
+
+                    <com.joanzapata.iconify.widget.IconTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:text="{fa-caret-up}"
+                        android:textColor="#aaaaaa"
+                        android:textSize="14sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/shape_sort_bg"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginRight="2dp"
+                        android:gravity="center_vertical"
+                        android:text="价格"
+                        android:textColor="@color/test_color_black"
+                        android:textSize="14sp" />
+
+                    <com.joanzapata.iconify.widget.IconTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:text="{fa-caret-down}"
+                        android:textColor="@color/test_color_black"
+                        android:textSize="14sp" />
+
+                </LinearLayout>
 
             </LinearLayout>
 
-        </LinearLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="@android:color/darker_gray" />
 
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_marginLeft="8dp"
-            android:layout_weight="1"
-            android:background="@drawable/shape_sort_bg"
-            android:gravity="center">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_marginRight="2dp"
-                android:gravity="center_vertical"
-                android:text="人气"
-                android:textColor="@color/test_color_black"
-                android:textSize="14sp" />
-
-            <com.joanzapata.iconify.widget.IconTextView
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:gravity="center_vertical"
-                android:text="{fa-caret-up}"
-                android:textColor="#aaaaaa"
-                android:textSize="14sp" />
+            <android.support.v4.view.ViewPager
+                android:id="@+id/view_pager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
 
         </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_marginLeft="8dp"
-            android:layout_marginRight="8dp"
-            android:layout_weight="1"
-            android:background="@drawable/shape_sort_bg"
-            android:gravity="center">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_marginRight="2dp"
-                android:gravity="center_vertical"
-                android:text="价格"
-                android:textColor="@color/test_color_black"
-                android:textSize="14sp" />
-
-            <com.joanzapata.iconify.widget.IconTextView
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:gravity="center_vertical"
-                android:text="{fa-caret-down}"
-                android:textColor="@color/test_color_black"
-                android:textSize="14sp" />
-
-        </LinearLayout>
-
-    </LinearLayout>
-
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="0.5dp"
-        android:background="@android:color/darker_gray" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:text="商品展示"
-        android:textSize="18sp" />
+    </FrameLayout>
 
 </LinearLayout>
