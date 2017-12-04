@@ -2,10 +2,14 @@ package com.xingyunyicai.core.delegates;
 
 import android.Manifest;
 import android.content.DialogInterface;
+import android.content.Intent;
+import android.net.Uri;
+import android.provider.Settings;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AlertDialog;
 
 import com.xingyunyicai.core.ui.location.DoDoLocation;
+import com.xingyunyicai.core.ui.location.core.LocationCity;
 import com.xingyunyicai.core.util.toast.ToastUtil;
 
 import permissions.dispatcher.NeedsPermission;
@@ -35,8 +39,20 @@ public abstract class PermissionCheckerDelegate extends BaseDelegate {
 
     }
 
+    @NeedsPermission(Manifest.permission.ACCESS_FINE_LOCATION)
+    void startLocationCity(LocationCity location) {
+//        ToastUtil.show("用户允许 定位权限！可开始定位");
+        //360手机永远只走这个方法，小米正常
+        location.start();
+
+    }
+
     public void startLocationWithCheck(DoDoLocation location) {
         PermissionCheckerDelegatePermissionsDispatcher.startLocationWithPermissionCheck(this, location);
+    }
+
+    public void startLocationCityWithCheck(LocationCity location) {
+        PermissionCheckerDelegatePermissionsDispatcher.startLocationCityWithPermissionCheck(this, location);
     }
 
     @OnPermissionDenied(Manifest.permission.ACCESS_FINE_LOCATION)
@@ -46,7 +62,11 @@ public abstract class PermissionCheckerDelegate extends BaseDelegate {
 
     @OnNeverAskAgain(Manifest.permission.ACCESS_FINE_LOCATION)
     void onLocationNever() {
-        ToastUtil.show("用户永久拒绝 定位权限！");
+        ToastUtil.show("无法定位，请打开定位服务");
+        Intent i = new Intent();
+        i.setAction(Settings.ACTION_APPLICATION_DETAILS_SETTINGS);
+        i.setData(Uri.fromParts("package", getProxyActivity().getPackageName(), null));
+        startActivity(i);
     }
 
     @OnShowRationale(Manifest.permission.ACCESS_FINE_LOCATION)

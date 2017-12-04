@@ -1,4 +1,4 @@
-package com.xingyunyicai.ec.location;
+package com.xingyunyicai.ec.location.bean;
 
 import java.util.Comparator;
 

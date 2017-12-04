@@ -10,6 +10,7 @@ import com.xingyunyicai.core.ui.recycler.MulEntity;
 import com.xingyunyicai.core.ui.recycler.MulFields;
 import com.xingyunyicai.core.ui.recycler.MulHolder;
 import com.xingyunyicai.ec.R;
+import com.xingyunyicai.ec.location.bean.SortModel;
 
 import java.util.LinkedHashMap;
 import java.util.List;

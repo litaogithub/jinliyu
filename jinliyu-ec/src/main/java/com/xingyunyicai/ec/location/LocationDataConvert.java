@@ -3,6 +3,7 @@ package com.xingyunyicai.ec.location;
 import com.xingyunyicai.core.ui.recycler.DataConverter;
 import com.xingyunyicai.core.ui.recycler.ItemType;
 import com.xingyunyicai.core.ui.recycler.MulEntity;
+import com.xingyunyicai.ec.location.bean.SortModel;
 
 import java.util.ArrayList;
 import java.util.List;

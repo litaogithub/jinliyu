@@ -5,6 +5,9 @@
     <color name="green">#ff00ff00</color>
     <color name="red">#ffff0000</color>
     <color name="transparent">#00000000</color>
+    <color name="default_text_color">#f37b23</color>
+    <color name="default_gray_color">#ededed</color>
+    <color name="default_line_color">#d7d7d7</color>
 
     <!--底部导航栏 Bottom Tab--><!--默认-->
     <color name="bottom_tab_normal_text_color">#929292</color>

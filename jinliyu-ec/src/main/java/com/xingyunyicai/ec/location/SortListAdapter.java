@@ -9,6 +9,7 @@ import android.widget.SectionIndexer;
 import android.widget.TextView;
 
 import com.xingyunyicai.ec.R;
+import com.xingyunyicai.ec.location.bean.SortModel;
 
 import java.util.List;
 

@@ -4,15 +4,33 @@
     android:layout_height="fill_parent"
     android:orientation="vertical" >
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:src="@drawable/delete_back"/>
+
     <com.xingyunyicai.ec.location.ClearEditText
         android:id="@+id/filter_edit"
         android:layout_marginTop="5dip"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:gravity="center"
+        android:layout_weight="3"
+        android:background="@drawable/search_backgroud"
         android:drawableLeft="@drawable/search_bar_icon_normal"
-        android:hint="请输入关键字"
-        android:singleLine="true"
-        android:textSize="15.0dip" />
+        android:hint="城市名/拼音"
+        android:textSize="15sp" />
+
+    </LinearLayout>
 
     <FrameLayout
         android:layout_width="fill_parent"

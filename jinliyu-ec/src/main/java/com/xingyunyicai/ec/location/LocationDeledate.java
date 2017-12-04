@@ -18,6 +18,8 @@ import com.xingyunyicai.core.util.storage.DoDoPreference;
 import com.xingyunyicai.ec.ApiConstants;
 import com.xingyunyicai.ec.R;
 import com.xingyunyicai.ec.R2;
+import com.xingyunyicai.ec.location.bean.PinyinComparator;
+import com.xingyunyicai.ec.location.bean.SortModel;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -30,6 +32,7 @@ import static com.xingyunyicai.core.util.storage.DoDoPreference.getCustomAppProf
 
 /**
  * Created by litao on 2017/11/29.
+ * 城市定位主页面
  */
 
 public class LocationDeledate extends DoDoDelegate {
@@ -37,11 +40,11 @@ public class LocationDeledate extends DoDoDelegate {
     @BindView(R2.id.rv)
     RecyclerView sortListView;
     @BindView(R2.id.sidrbar)
-    SideBar sideBar;
+    com.xingyunyicai.ec.location.SideBar sideBar;
     @BindView(R2.id.dialog)
     TextView dialog;
     @BindView(R2.id.filter_edit)
-    ClearEditText mClearEditText;
+    com.xingyunyicai.ec.location.ClearEditText mClearEditText;
     private LocationAdapter mAdapter;
     private List<SortModel> sourceDateList;
     private LocationDataConvert locationDataConvert;
@@ -61,11 +64,12 @@ public class LocationDeledate extends DoDoDelegate {
     public void onLazyInitView(@Nullable Bundle savedInstanceState) {
         super.onLazyInitView(savedInstanceState);
         initViews();
+        initAdapter();
     }
 
     private void initViews() {
         sideBar.setTextView(dialog);
-        sideBar.setOnTouchingLetterChangedListener(new SideBar.OnTouchingLetterChangedListener() {
+        sideBar.setOnTouchingLetterChangedListener(new com.xingyunyicai.ec.location.SideBar.OnTouchingLetterChangedListener() {
 
             @Override
             public void onTouchingLetterChanged(String s) {
@@ -73,24 +77,9 @@ public class LocationDeledate extends DoDoDelegate {
                 if(position != -1){
                     linearLayoutManager.scrollToPositionWithOffset(position,0);
                 }
+            }
+        });
 
-            }
-        });
-        sourceDateList = filledData(getResources().getStringArray(R.array.date));
-        Collections.sort(sourceDateList, new PinyinComparator());
-        locationDataConvert = new LocationDataConvert(sourceDateList,
-                Arrays.asList(getResources().getStringArray(R.array.hotCityData)),showHistoryData());
-        mAdapter = new LocationAdapter(locationDataConvert.convert());
-        linearLayoutManager = new GridLayoutManager(getProxyActivity(),3);
-        sortListView.setLayoutManager(linearLayoutManager);
-        sortListView.setAdapter(mAdapter);
-        mAdapter.setOnItemClickListener(new BaseQuickAdapter.OnItemClickListener() {
-            @Override
-            public void onItemClick(BaseQuickAdapter adapter, View view, int position) {
-                int itemType = mAdapter.getData().get(position).getItemType();
-                OnItemClickListener(itemType,position);
-            }
-        });
         mClearEditText.addTextChangedListener(new TextWatcher() {
 
             @Override
@@ -106,6 +95,24 @@ public class LocationDeledate extends DoDoDelegate {
 
             @Override
             public void afterTextChanged(Editable s) {
+            }
+        });
+    }
+    //初始化adapter填充数据
+    private void initAdapter(){
+        sourceDateList = filledData(getResources().getStringArray(R.array.date));
+        Collections.sort(sourceDateList, new PinyinComparator());
+        locationDataConvert = new LocationDataConvert(sourceDateList,
+                Arrays.asList(getResources().getStringArray(R.array.hotCityData)),showHistoryData());
+        mAdapter = new LocationAdapter(locationDataConvert.convert());
+        linearLayoutManager = new GridLayoutManager(getProxyActivity(),3);
+        sortListView.setLayoutManager(linearLayoutManager);
+        sortListView.setAdapter(mAdapter);
+        mAdapter.setOnItemClickListener(new BaseQuickAdapter.OnItemClickListener() {
+            @Override
+            public void onItemClick(BaseQuickAdapter adapter, View view, int position) {
+                int itemType = mAdapter.getData().get(position).getItemType();
+                OnItemClickListener(itemType,position);
             }
         });
     }
@@ -181,7 +188,7 @@ public class LocationDeledate extends DoDoDelegate {
         for(int i=0; i<date.length; i++){
             SortModel sortModel = new SortModel();
             sortModel.setName(date[i]);
-            String pinyin = CharacterParser.getInstance().getSelling(date[i]);
+            String pinyin = com.xingyunyicai.ec.location.CharacterParser.getInstance().getSelling(date[i]);
             String sortString = pinyin.substring(0, 1).toUpperCase();
 
             if(sortString.matches("[A-Z]")){
@@ -211,7 +218,7 @@ public class LocationDeledate extends DoDoDelegate {
             flag = false;
             for(SortModel sortModel : sourceDateList){
                 String name = sortModel.getName();
-                if(name.indexOf(filterStr.toString()) != -1 || CharacterParser.getInstance().getSelling(name).startsWith(filterStr.toString())){
+                if(name.indexOf(filterStr.toString()) != -1 || com.xingyunyicai.ec.location.CharacterParser.getInstance().getSelling(name).startsWith(filterStr.toString())){
                     filterDateList.add(sortModel);
                 }
             }
