@@ -61,16 +61,19 @@ public class TePinAdapter extends MulAdapter {
         switch (holder.getItemViewType()) {
             case TePinItemType.GOODS:
                 final TePinBean tePinBean = entity.getField(MulFields.BEAN);
-                String cover = tePinBean.getCover();
-                String title = tePinBean.getTitle();
-                String price = tePinBean.getPrice();
-                String evaluateCount = tePinBean.getEvaluateCount();
-                String goodCount = tePinBean.getGoodCount();
+                final String cover = tePinBean.getCover();
+                final String title = tePinBean.getTitle();
+                final boolean frank = tePinBean.getFrank();
+                final String sold = tePinBean.getSold();
+                final String newPrice = tePinBean.getNewPrice();
+                final String oldPrice = tePinBean.getOldPrice();
+
+                holder.setGone(R.id.frank, frank);
 
                 holder.setText(R.id.title, title)
-                        .setText(R.id.price, "￥" + price)
-                        .setText(R.id.evaluateCount, evaluateCount + "条评价")
-                        .setText(R.id.goodCount, goodCount + "%好评");
+                        .setText(R.id.sold, "已售" + sold + "件")
+                        .setText(R.id.newPrice, "￥" + newPrice)
+                        .setText(R.id.oldPrice, "￥" + oldPrice);
 
                 loadImage(holder, cover, R.id.cover);
 

@@ -8,9 +8,10 @@ public class TePinBean {
 
     private String cover = null;//展示图
     private String title = null;//标题
-    private String price = null;//价格
-    private String evaluateCount = null;//评价数
-    private String goodCount = null;//好评数
+    private boolean frank = false;//包邮
+    private String sold = null;//销售量
+    private String newPrice = null;//现价
+    private String oldPrice = null;//原价
 
     public String getCover() {
         return cover;
@@ -28,27 +29,35 @@ public class TePinBean {
         this.title = title;
     }
 
-    public String getPrice() {
-        return price;
+    public boolean getFrank() {
+        return frank;
     }
 
-    public void setPrice(String price) {
-        this.price = price;
+    public void setFrank(boolean frank) {
+        this.frank = frank;
     }
 
-    public String getEvaluateCount() {
-        return evaluateCount;
+    public String getSold() {
+        return sold;
     }
 
-    public void setEvaluateCount(String evaluateCount) {
-        this.evaluateCount = evaluateCount;
+    public void setSold(String sold) {
+        this.sold = sold;
     }
 
-    public String getGoodCount() {
-        return goodCount;
+    public String getNewPrice() {
+        return newPrice;
     }
 
-    public void setGoodCount(String goodCount) {
-        this.goodCount = goodCount;
+    public void setNewPrice(String newPrice) {
+        this.newPrice = newPrice;
+    }
+
+    public String getOldPrice() {
+        return oldPrice;
+    }
+
+    public void setOldPrice(String oldPrice) {
+        this.oldPrice = oldPrice;
     }
 }
