@@ -1,7 +1,11 @@
 package com.xingyunyicai.core.net.callback;
 
 import android.os.Handler;
+import android.text.TextUtils;
 
+import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONObject;
+import com.blankj.utilcode.util.ToastUtils;
 import com.xingyunyicai.core.app.ConfigKeys;
 import com.xingyunyicai.core.app.DoDo;
 import com.xingyunyicai.core.net.loader.DoDoLoader;
@@ -46,8 +50,22 @@ public final class RequestCallbacks implements Callback<String> {
     public void onResponse(Call<String> call, Response<String> response) {
         if (response.isSuccessful()) {
             if (call.isExecuted()) {
-                if (SUCCESS != null) {
-                    SUCCESS.onSuccess(response.body());
+                final String json = response.body();
+                if (!TextUtils.isEmpty(json)) {
+                    final JSONObject data = JSON.parseObject(json);
+                    if (data != null) {
+                        final boolean flag = data.getBoolean("flag");
+                        if (flag) {
+                            if (SUCCESS != null) {
+                                SUCCESS.onSuccess(response.body());
+                            }
+                        } else {
+                            final String errorMessage = data.getString("errorMessage");
+                            if (!TextUtils.isEmpty(errorMessage)) {
+                                ToastUtils.showShort(errorMessage);
+                            }
+                        }
+                    }
                 }
             }
         } else {
@@ -65,7 +83,7 @@ public final class RequestCallbacks implements Callback<String> {
                 public void run() {
                     DoDoLoader.stopLoading();
                 }
-            },delayed);
+            }, delayed);
         }
     }
 
