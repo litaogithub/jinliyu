@@ -25,6 +25,7 @@
             android:orientation="horizontal">
 
             <com.joanzapata.iconify.widget.IconTextView
+                android:id="@+id/back"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="20dp"
@@ -90,31 +91,15 @@
 
             </LinearLayout>
 
-            <LinearLayout
+            <TextView
+                android:id="@+id/search"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="16dp"
                 android:layout_marginRight="16dp"
-                android:orientation="horizontal">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:layout_marginRight="2dp"
-                    android:gravity="center"
-                    android:text="定位"
-                    android:textColor="@color/test_color_black" />
-
-                <com.joanzapata.iconify.widget.IconTextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:layout_marginTop="2dp"
-                    android:gravity="center_vertical"
-                    android:text="{fa-caret-down}"
-                    android:textColor="@color/test_color_black"
-                    android:textSize="14sp" />
-
-            </LinearLayout>
+                android:gravity="center"
+                android:text="搜索"
+                android:textColor="@color/test_color_black" />
 
         </LinearLayout>
 

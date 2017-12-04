@@ -84,10 +84,10 @@ public class TePinDelegate extends BaseBottomItemDelegate {
 //        }
 
         final String[] titles = new String[]{"全部", "农产品", "电子产品", "办公用品", "有机食品", "促销商品"};
-        final String[] urls = new String[]{"1", "2", "3", "4", "5", "6"};
+        final String[] urls = new String[]{"全部", "农产品", "电子产品", "办公用品", "有机食品", "促销商品"};
 
         //设置预加载数
-        mViewPager.setOffscreenPageLimit(6);//默认是1 默认最多缓存2的1次方+1=3
+        mViewPager.setOffscreenPageLimit(titles.length);//默认是1 默认最多缓存2的1次方+1=3
         mViewPager.setAdapter(new TePinPagerAdapter(getChildFragmentManager(), titles, urls));
         mCategoryTabLayout.setViewPager(mViewPager);
         //隐藏加载布局，显示列表布局
