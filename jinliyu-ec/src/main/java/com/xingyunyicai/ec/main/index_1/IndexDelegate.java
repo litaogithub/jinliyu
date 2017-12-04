@@ -6,10 +6,15 @@ import android.support.annotation.Nullable;
 import android.view.View;
 import android.widget.ImageView;
 
+import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONArray;
+import com.alibaba.fastjson.JSONObject;
 import com.blankj.utilcode.util.ToastUtils;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.RequestOptions;
 import com.xingyunyicai.core.delegates.bottom.BaseBottomItemDelegate;
+import com.xingyunyicai.core.net.RestClient;
+import com.xingyunyicai.core.net.callback.ISuccess;
 import com.xingyunyicai.core.ui.image.GlideApp;
 import com.xingyunyicai.ec.R;
 import com.xingyunyicai.ec.R2;
@@ -39,7 +44,60 @@ public class IndexDelegate extends BaseBottomItemDelegate {
 
     @Override
     public void onBindView(@Nullable Bundle savedInstanceState, View rootView) {
-        initBanner();
+//        initBanner();
+        RestClient.builder()
+                .url("http://192.168.0.146:8080/jinliyu/carousel")
+                .success(new ISuccess() {
+                    @Override
+                    public void onSuccess(String response) {
+//                        ToastUtils.showShort(response);
+                        handleData(response);
+                    }
+                })
+                .build()
+                .get();
+    }
+
+    private void handleData(String json) {
+        final JSONObject object = JSON.parseObject(json);
+        final JSONArray dataList = object.getJSONArray("data");
+        final int size = dataList.size();
+        final ArrayList<String> titles = new ArrayList<>();
+        final ArrayList<String> images = new ArrayList<>();
+        for (int i = 0; i < size; i++) {
+            final JSONObject data = dataList.getJSONObject(i);
+            final String id = data.getString("id");
+            final String cover = data.getString("pic");
+            titles.add(id);
+            images.add(cover);
+        }
+
+        final BannerBean bannerBean = new BannerBean();
+        bannerBean.setTitles(titles);
+        bannerBean.setImages(images);
+        mBanner.setImages(bannerBean.getImages())
+                .setBannerTitles(bannerBean.getTitles())
+                .setImageLoader(new ImageLoader() {
+                    @Override
+                    public void displayImage(Context context, Object path, ImageView imageView) {
+                        GlideApp.with(context)
+                                .load(path)
+                                .placeholder(R.drawable.banner_background)
+                                .apply(DEFAULT_OPTIONS)
+                                .into(imageView);
+                    }
+                })
+                .setBannerStyle(BannerConfig.CIRCLE_INDICATOR)
+                .setIndicatorGravity(BannerConfig.CENTER)
+                .isAutoPlay(true)
+                .setDelayTime(4000)
+                .setOnBannerListener(new OnBannerListener() {
+                    @Override
+                    public void OnBannerClick(int position) {
+                        ToastUtils.showShort("banner点击：" + position);
+                    }
+                })
+                .start();
     }
 
     private void initBanner() {

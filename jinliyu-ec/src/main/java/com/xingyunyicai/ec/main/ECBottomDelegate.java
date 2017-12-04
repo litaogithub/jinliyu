@@ -37,6 +37,6 @@ public class ECBottomDelegate extends BaseBottomContainerDelegate {
 
     @Override
     public int setFirstPageIndex() {
-        return 1;
+        return 0;
     }
 }
