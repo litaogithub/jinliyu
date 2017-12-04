@@ -4,7 +4,9 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.view.ViewPager;
+import android.text.TextUtils;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -51,6 +53,11 @@ public class TePinDelegate extends BaseBottomItemDelegate {
     @BindView(R2.id.sort_price)
     LinearLayout mSortPrice = null;
 
+    @BindView(R2.id.search)
+    TextView mSearch = null;
+    @BindView(R2.id.edit_content)
+    EditText mEditContent = null;
+
     @OnClick({R2.id.sort_default, R2.id.sort_sales, R2.id.sort_popularity, R2.id.sort_price})
     public void onSortClick(View view) {
         final int id = view.getId();
@@ -67,6 +74,16 @@ public class TePinDelegate extends BaseBottomItemDelegate {
 //            ToastUtils.showShort("价格");
             setSortColor(3);
         } else {
+        }
+    }
+
+    @OnClick(R2.id.search)
+    public void onSearchClicked() {
+        final String content = mEditContent.getText().toString().trim();
+        if (!TextUtils.isEmpty(content)) {
+            ToastUtils.showShort(content);
+        } else {
+            ToastUtils.showShort("请输入关键字再搜索");
         }
     }
 
