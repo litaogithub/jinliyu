@@ -8,6 +8,7 @@ import android.text.Editable;
 import android.text.TextUtils;
 import android.text.TextWatcher;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.blankj.utilcode.util.ToastUtils;
@@ -15,6 +16,7 @@ import com.chad.library.adapter.base.BaseQuickAdapter;
 import com.xingyunyicai.core.delegates.DoDoDelegate;
 import com.xingyunyicai.core.ui.recycler.MulFields;
 import com.xingyunyicai.core.util.storage.DoDoPreference;
+import com.xingyunyicai.core.util.toast.ToastUtil;
 import com.xingyunyicai.ec.ApiConstants;
 import com.xingyunyicai.ec.R;
 import com.xingyunyicai.ec.R2;
@@ -45,6 +47,8 @@ public class LocationDeledate extends DoDoDelegate {
     TextView dialog;
     @BindView(R2.id.filter_edit)
     com.xingyunyicai.ec.location.ClearEditText mClearEditText;
+    @BindView(R2.id.location_back)
+    ImageView mBack;
     private LocationAdapter mAdapter;
     private List<SortModel> sourceDateList;
     private LocationDataConvert locationDataConvert;
@@ -57,7 +61,12 @@ public class LocationDeledate extends DoDoDelegate {
 
     @Override
     public void onBindView(@Nullable Bundle savedInstanceState, View rootView) {
-
+        mBack.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                ToastUtil.showShort("dianji");
+            }
+        });
     }
 
     @Override
@@ -66,6 +75,7 @@ public class LocationDeledate extends DoDoDelegate {
         initViews();
         initAdapter();
     }
+
 
     private void initViews() {
         sideBar.setTextView(dialog);
@@ -134,7 +144,7 @@ public class LocationDeledate extends DoDoDelegate {
             //如果sp里存的数量大于3个就清空缓存
             DoDoPreference.removeCustomAppProfile(DoDoPreference.HISTORY_CITY);
         }
-        for(int i = 0; i < count; i++){
+        for(int i = 0; i < strArr.length; i++){
             cityList.add(strArr[i]);
         }
         return cityList;

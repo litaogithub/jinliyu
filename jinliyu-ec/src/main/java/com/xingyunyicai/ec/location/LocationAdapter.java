@@ -76,7 +76,7 @@ public class LocationAdapter extends MulAdapter {
                 locationCitySize = entity.getField(MulFields.ID);
                 TextView textView = holder.getView(R.id.btn_hotcity);
                 if(holder.getAdapterPosition() == 1){
-                    Drawable drawable = mContext.getResources().getDrawable(android.R.drawable.ic_lock_idle_alarm);
+                    Drawable drawable = mContext.getResources().getDrawable(R.drawable.location_icon);
                     drawable.setBounds(0, 0, drawable.getMinimumWidth(), drawable.getMinimumHeight());
                     textView.setCompoundDrawables(drawable,null,null,null);
                 }else{

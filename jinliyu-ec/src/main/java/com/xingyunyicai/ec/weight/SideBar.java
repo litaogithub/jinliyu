@@ -13,13 +13,16 @@ import android.widget.TextView;
 
 import com.xingyunyicai.ec.R;
 
+/**
+ * 侧滑字母索引菜单
+ */
 public class SideBar extends View {
 
 	private OnTouchingLetterChangedListener onTouchingLetterChangedListener;
 	public static String[] b = { "A", "B", "C", "D", "E", "F", "G", "H", "I",
 			"J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V",
 			"W", "X", "Y", "Z", "#" };
-	private int choose = -1;// ѡ��
+	private int choose = -1;
 	private Paint paint = new Paint();
 
 	private TextView mTextDialog;
@@ -48,7 +51,7 @@ public class SideBar extends View {
 		int singleHeight = height / b.length;//
 
 		for (int i = 0; i < b.length; i++) {
-			paint.setColor(Color.rgb(33, 65, 98));
+			paint.setColor(Color.parseColor("#f37b23"));
 			// paint.setColor(Color.WHITE);
 			paint.setTypeface(Typeface.DEFAULT_BOLD);
 			paint.setAntiAlias(true);

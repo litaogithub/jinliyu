@@ -7,6 +7,7 @@
         android:id="@+id/hotCity_header"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="#8a8a8a"
         android:padding="10dp"
         android:text="热门城市"/>
 
