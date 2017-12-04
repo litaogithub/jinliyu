@@ -28,7 +28,7 @@ public class TePinDataConverter extends DataConverter {
                     .build();
 
             final TePinBean tePinBean2 = new TePinBean();
-            tePinBean2.setCover("https://img.alicdn.com/bao/uploaded/i3/2208958975/TB2m3QHatHO8KJjSZFtXXchfXXa_!!2208958975.jpg_b.jpg");
+            tePinBean2.setCover("https://img.alicdn.com/bao/uploaded/i3/2757793292/TB2WYEkXQfb_uJkSnaVXXXFmVXa_!!2757793292.jpg_b.jpg");
             tePinBean2.setTitle("三只松鼠休闲零食");
             tePinBean2.setPrice("120");
             tePinBean2.setEvaluateCount("1030");
@@ -39,7 +39,7 @@ public class TePinDataConverter extends DataConverter {
                     .build();
 
             final TePinBean tePinBean3 = new TePinBean();
-            tePinBean3.setCover("https://img.alicdn.com/bao/uploaded/i3/2208958975/TB2m3QHatHO8KJjSZFtXXchfXXa_!!2208958975.jpg_b.jpg");
+            tePinBean3.setCover("https://img.alicdn.com/bao/uploaded/i4/3328032806/TB2Xka4XjuhSKJjSspdXXc11XXa_!!3328032806.png_b.jpg");
             tePinBean3.setTitle("乐事休闲零食真脆薯条");
             tePinBean3.setPrice("69");
             tePinBean3.setEvaluateCount("163");

@@ -1,8 +1,11 @@
 package com.xingyunyicai.ec.main.index_2.adapter;
 
+import android.support.annotation.IdRes;
 import android.support.v7.widget.GridLayoutManager;
+import android.widget.ImageView;
 
 import com.xingyunyicai.core.delegates.DoDoDelegate;
+import com.xingyunyicai.core.ui.image.GlideApp;
 import com.xingyunyicai.core.ui.recycler.DataConverter;
 import com.xingyunyicai.core.ui.recycler.ItemTypeBuilder;
 import com.xingyunyicai.core.ui.recycler.MulAdapter;
@@ -35,6 +38,16 @@ public class TePinAdapter extends MulAdapter {
 
     public static TePinAdapter create(DataConverter converter, DoDoDelegate delegate) {
         return new TePinAdapter(converter.convert(), delegate);
+    }
+
+    @Override
+    protected void loadImage(MulHolder holder, String imageUrl, @IdRes int viewId) {
+        GlideApp.with(mContext)
+                .load(imageUrl)
+                .apply(DEFAULT_OPTIONS)
+                .placeholder(R.drawable.banner_background)
+                .into((ImageView) holder.getView(viewId));
+
     }
 
     @Override

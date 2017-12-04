@@ -146,18 +146,27 @@
                 android:paddingBottom="6dp"
                 android:paddingTop="6dp">
 
-                <TextView
+                <LinearLayout
+                    android:id="@+id/sort_default"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_marginLeft="8dp"
                     android:layout_weight="1"
                     android:background="@drawable/shape_sort_bg"
-                    android:gravity="center"
-                    android:text="默认排序"
-                    android:textColor="@color/test_color_black"
-                    android:textSize="14sp" />
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:text="默认排序"
+                        android:textColor="@color/red"
+                        android:textSize="14sp" />
+
+                </LinearLayout>
 
                 <LinearLayout
+                    android:id="@+id/sort_sales"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_marginLeft="8dp"
@@ -171,37 +180,21 @@
                         android:layout_marginRight="2dp"
                         android:gravity="center_vertical"
                         android:text="销量"
-                        android:textColor="@android:color/holo_red_dark"
+                        android:textColor="@color/test_color_black"
                         android:textSize="14sp" />
 
-                    <LinearLayout
+                    <com.joanzapata.iconify.widget.IconTextView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:orientation="vertical">
-
-                        <com.joanzapata.iconify.widget.IconTextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginBottom="2dp"
-                            android:gravity="center_vertical"
-                            android:text="{fa-caret-up}"
-                            android:textColor="#aaaaaa"
-                            android:textSize="12sp" />
-
-                        <com.joanzapata.iconify.widget.IconTextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:gravity="center_vertical"
-                            android:text="{fa-caret-down}"
-                            android:textColor="@android:color/holo_red_dark"
-                            android:textSize="12sp" />
-
-                    </LinearLayout>
+                        android:gravity="center_vertical"
+                        android:text="{fa-caret-down}"
+                        android:textColor="@color/test_color_black"
+                        android:textSize="14sp" />
 
                 </LinearLayout>
 
                 <LinearLayout
+                    android:id="@+id/sort_popularity"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_marginLeft="8dp"
@@ -222,13 +215,14 @@
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:gravity="center_vertical"
-                        android:text="{fa-caret-up}"
-                        android:textColor="#aaaaaa"
+                        android:text="{fa-caret-down}"
+                        android:textColor="@color/test_color_black"
                         android:textSize="14sp" />
 
                 </LinearLayout>
 
                 <LinearLayout
+                    android:id="@+id/sort_price"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_marginLeft="8dp"
